@@ -1,0 +1,23 @@
+{
+  "alternating_signatures_validated": 6729,
+  "crossing_numbers": {
+    "11": 8,
+    "12": 24,
+    "13": 132
+  },
+  "data_rows": 12966,
+  "eligible_targets": 164,
+  "input_intervals": {
+    "[3,4]": 152,
+    "[3,5]": 12
+  },
+  "k": 3,
+  "m_G_zero_values": [
+    "3/2"
+  ],
+  "m_Q_zero": "-3/2",
+  "obstructed_u_3": 164,
+  "output_csv": "lower_bounds/owens_signature_sharp/signature6_zero_class_results.csv",
+  "raw_csv_rows_after_header": 12967,
+  "required_absolute_signature": 6
+}
