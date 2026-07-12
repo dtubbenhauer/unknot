@@ -1,0 +1,38 @@
+{
+  "args": {
+    "zip": "hard_unknots_chunks_0_to_9(1)(1).zip",
+    "target_index_pkl": "full_target_index.pkl",
+    "outdir": "appearing_precise_c13_all50k",
+    "row_start": 0,
+    "row_end": 50000,
+    "max_source_crossings": 13,
+    "reduce_rounds": 4,
+    "row_timeout": 20,
+    "checkpoint_every": 10,
+    "worker": "appearing_row_worker_pickle.py"
+  },
+  "stats": {
+    "rows_seen": 50000,
+    "rows_skipped_source_crossing_cutoff": 49899,
+    "rows_scanned": 101,
+    "one_crossing_swaps_considered": 1287,
+    "one_crossing_swaps_completed": 1287,
+    "swaps_reduced_le_cutoff": 1287,
+    "swaps_with_target_jones_match": 1036,
+    "swaps_with_jones_alex_target_overlap": 1030,
+    "precise_table_hits": 1030,
+    "flip_errors": 0
+  },
+  "statuses": {
+    "precise_target_hit": 1030,
+    "jones_only_or_alex_only_near_miss": 6,
+    "no_target_jones_match": 251
+  },
+  "elapsed_sec": 750.8968958854675,
+  "unique_appearing_knots": 72,
+  "deduplicated_witness_flips": 1030,
+  "all_unique_u_values": {
+    "1": 72
+  },
+  "note": "Full uploaded 50,000-row slice was traversed; exact processing was restricted to source hard-unknot diagrams with at most 13 crossings. Matching uses Jones+Alexander+volume from the notebook conventions; no hand certificate is claimed."
+}
