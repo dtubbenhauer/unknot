@@ -1,0 +1,137 @@
+{
+  "source": "Figure-17 42-crossing hard unknot from arXiv:2409.09032",
+  "r3_bfs_variants_enumerated": 1306,
+  "r3_bfs_meta": {},
+  "random_extra_variants": 500,
+  "total_distinct_source_diagrams_scanned": 1806,
+  "crossing_swaps_scanned": 75852,
+  "unknown_hits": 0,
+  "exterior_errors": 0,
+  "identify_errors": 0,
+  "identified_records": 75852,
+  "distinct_identified_names": 55,
+  "top_identified_names": [
+    [
+      "m004",
+      8407
+    ],
+    [
+      "4_1",
+      8407
+    ],
+    [
+      "K2_1",
+      8407
+    ],
+    [
+      "4a_1",
+      8407
+    ],
+    [
+      "otet02_00001",
+      8407
+    ],
+    [
+      "t11291",
+      4383
+    ],
+    [
+      "7_6",
+      4383
+    ],
+    [
+      "K8_241",
+      4383
+    ],
+    [
+      "7a_2",
+      4383
+    ],
+    [
+      "t12271",
+      3612
+    ],
+    [
+      "9_44",
+      3612
+    ],
+    [
+      "K8_280",
+      3612
+    ],
+    [
+      "9n_1",
+      3612
+    ],
+    [
+      "14n_396",
+      3590
+    ],
+    [
+      "12n_38",
+      3140
+    ],
+    [
+      "o9_37080",
+      1035
+    ],
+    [
+      "10_136",
+      1035
+    ],
+    [
+      "K9_580",
+      1035
+    ],
+    [
+      "10n_3",
+      1035
+    ],
+    [
+      "s912",
+      549
+    ],
+    [
+      "6_3",
+      549
+    ],
+    [
+      "K6_43",
+      549
+    ],
+    [
+      "6a_1",
+      549
+    ],
+    [
+      "m015",
+      534
+    ],
+    [
+      "5_2",
+      534
+    ],
+    [
+      "K3_2",
+      534
+    ],
+    [
+      "5a_1",
+      534
+    ],
+    [
+      "t12587",
+      43
+    ],
+    [
+      "8_9",
+      43
+    ],
+    [
+      "K8_291",
+      43
+    ]
+  ],
+  "method": "For each R3-equivalent or sampled R3 diagram, flip all 42 crossings, call SnapPy exterior().identify(), normalize names, and intersect with spreadsheet knots whose unknotting interval is [1,a], a>1.",
+  "limitation": "The Google bucket advertised in the paper redirected to sign-in in this environment, so this extends only the printed Figure-17 hard unknot via R3-equivalent diagrams, not the full 2.46M hard-unknot dataset."
+}
