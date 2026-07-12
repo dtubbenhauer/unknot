@@ -1,134 +1,137 @@
 # Machine learning methods and unknotting numbers
 
-This repository contains supplementary computational material for joint work with Anne Dranowski, Zhen Guo, Yura Kabkov and Daniel Tubbenhauer, titled
+[![Verify repository](https://github.com/dtubbenhauer/unknot/actions/workflows/verify.yml/badge.svg)](https://github.com/dtubbenhauer/unknot/actions/workflows/verify.yml)
 
-> Machine learning methods and unknotting numbers
+Code, exact certificates, search outputs and figures accompanying joint work of Anne Dranowski, Zhen Guo, Yura Kabkov and Daniel Tubbenhauer.
 
-The arXiv version will be available at
+The paper itself is maintained separately. This repository contains the computational material needed to reproduce or inspect its machine-assisted claims.
 
-> arXiv:TBA
+## What is here
 
-The paper itself is deliberately **not** stored in this repository. The repository is for code, search outputs, exact certificate data and errata.
+The main lower-bound results are represented by **489 row-level certificates**:
 
-The repository contains four main groups of files:
+| family | conclusion tested | certificates | location |
+|---|---:|---:|---|
+| alternating, signature four | rule out `u = 2` | 245 | `lower_bounds/owens_u2/` |
+| alternating, signature six | rule out `u = 3` | 164 | `lower_bounds/owens_signature_sharp/signature6_*` |
+| alternating, signature eight | rule out `u = 4` | 24 | `lower_bounds/owens_signature_sharp/signature8_*` |
+| nonalternating Montesinos | rule out `u = 1` | 49 of 50 targets | `lower_bounds/montesinos_u1/` |
+| higher-signature Montesinos | rule out the lower endpoint | 7 | `lower_bounds/montesinos_signature_sharp/` |
 
-1. `lower_bounds/owens_u2/`, the machine-readable output of the signature-four Owens zero-class scan;
-2. `lower_bounds/montesinos_u1/`, the scripts and exact output of the Montesinos correction-term scan obstructing unknotting number one;
-3. `searches/hard_unknots/`, summaries of the exploratory hard-unknot and one-swap searches;
-4. `searches/game_levels/`, the PD codes and PLink drawings used for the first `Unknot!` research levels and the connected-sum challenge.
+The repository also contains:
 
-The goal is transparency. Successful lower-bound claims are accompanied by exact finite certificate data. Exploratory searches are kept separate and labelled as such: they locate possible witnesses or useful diagrams, but failed searches are not proofs.
+- the complete `11a14` minimal-diagram verification: 17 normalized minimal PDs, all 187 single crossing changes, four invariant classes and explicit resolution of every apparent unknotting-number-one collision;
+- a correction record for `12n873`;
+- a versioned KnotInfo snapshot record and deterministic builders for the compact identification tables used by the computations;
+- cleaned scripts and final summaries for the exploratory hard-unknot searches;
+- PD codes and reproducible PLink figures for the `Unknot!` research levels and the connected-sum challenge;
+- `SHA256SUMS`, a repository-wide verifier and a GitHub Actions workflow.
 
-## Contact
+See [`STATUS.md`](STATUS.md) for the paper-to-file map.
 
-If you find any errors in the paper, code or data, please email
+## Quick verification
 
-> daniel.tubbenhauer@sydney.edu.au
+Create an environment and install the common dependencies:
 
-## Main files
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
 
-### `lower_bounds/owens_u2/owens_u2_sharp_signature_kills.csv`
+Check the included outputs and their expected row counts:
 
-This is the row-level output for the alternating signature-four batch. Each row records the knot, its input interval, determinant, signature, the zero-class value of the positive Goeritz form and the finite list of candidate Owens matrices.
+```bash
+python3 verify_repository.py
+```
 
-The file contains the 245 certified successes used in the paper. Of these, 237 knots have exact unknotting number three and eight have their lower bound improved from two to three.
+Check file integrity:
 
-### `lower_bounds/montesinos_u1/montesinos_d_obstruction_scan.py`
+```bash
+sha256sum -c SHA256SUMS
+```
 
-This is the batch driver for the nonalternating Montesinos scan. It normalizes the rational tangles, constructs a definite star-shaped plumbing, checks the determinant, computes correction terms and tests every affine identification compatible with the linking form in both orientations.
+The same structural check runs in GitHub Actions. The exact certificate generators can be rerun separately as described in the README files inside their directories.
 
-### `lower_bounds/montesinos_u1/montesinos_d_obstruction_scan_u1_targets_up_to_13.csv`
+## Directory guide
 
-This is the complete row-level output for the 50 parseable three-tangle Montesinos targets in the stated range. It records the fractions, plumbing weights and arms, determinant checks, number of maps tested and the outcome of the basic and stronger correction-term tests.
+### `lower_bounds/owens_u2/`
 
-The basic test obstructs unknotting number one for 49 knots.
+The signature-four Owens computation. It includes the generating script, a compact 245-row result table, the full row-level certificate table, a formatted workbook and a summary.
 
-### `searches/hard_unknots/*.json`
+The 245 obstructions give 237 exact values `u=3` and eight improved intervals.
 
-These files summarize several exploratory searches performed on hard-unknot diagrams. They record the precise search range, number of swaps tested, identification policy, errors and limitations.
+### `lower_bounds/owens_signature_sharp/`
 
-They are included because negative and near-miss searches matter for reproducibility. They are not presented as exhaustive classifications unless the file explicitly says so.
+A generalized exact zero-class implementation together with compatibility wrappers and complete outputs for:
 
-### `searches/game_levels/research_levels.json`
+- 164 signature-six targets;
+- 24 signature-eight targets.
 
-This file stores the PD codes for the eight ten-crossing research levels
+The scripts validate the signature conventions against the installed KnotInfo snapshot before exporting the selected rows.
 
-    10a6, 10a11, 10a51, 10a54, 10a61, 10a76, 10a77, 10a79,
+### `lower_bounds/montesinos_u1/`
 
-together with the connected-sum challenge `4_1#9_10`. The corrected panel uses `10a54`, not `10a47`.
+The complete three-tangle Montesinos correction-term scan. The compact table has 50 targets and 49 obstructions. The `full_certificates/` directory contains one JSON certificate per target, including:
 
-### `pending_import/IMPORT_MANIFEST.md`
+- the normalized plumbing matrix;
+- the correction terms;
+- all linking-form-compatible affine identifications in both orientations;
+- an exact recorded failure for each rejected identification.
 
-This is a temporary assembly checklist. It records the final notebooks and certificate files created in earlier chats that still need to be copied from the File Library into the repository archive. It should be deleted once those files have been imported.
+The determinant-one target `12n309` is retained as the unique non-obstructed row.
 
-## Requirements
+### `lower_bounds/montesinos_signature_sharp/`
 
-The exact lower-bound scripts use Python. The current collection uses some combination of
+The seven higher-signature Montesinos certificates: five knots whose lower endpoint two is excluded and two knots whose lower endpoint three is excluded.
 
-1. the Python standard library;
-2. `sympy`, for exact rational and integer arithmetic;
-3. `pandas` and `openpyxl`, for the identification tables;
-4. SnapPy and Spherogram, for knot diagrams, hyperbolic data and identification;
-5. `tqdm`, for progress reporting.
+### `verification/11a14/`
 
-Install the common dependencies with
+A reproducible Tait-graph/Whitney-flip enumeration of the 17 normalized minimal diagrams of `11a14`, followed by all 187 single crossing changes. The outputs record the four resulting invariant classes and the Jones--Alexander--volume checks excluding the three apparent exact-`u=1` database collisions.
 
-    python3 -m pip install -r requirements.txt
+The directory also retains the direct two-crossing Jones scan and compatibility filenames used in the earlier computation.
 
-The certificate computations should use exact arithmetic whenever possible. Hyperbolic volume is used only as an identification filter or collision breaker, not as an exact lower-bound certificate.
+### `data/`
 
-## Reproducing the included lower-bound scans
+Provenance and compact identification data. The complete third-party KnotInfo CSV is not redistributed. Instead, `knotinfo_snapshot.json` records the package version and checksum, while the builder scripts reconstruct the relevant indexes from the installed snapshot.
 
-For the Montesinos scan, run
+### `searches/hard_unknots/`
 
-    python3 lower_bounds/montesinos_u1/montesinos_d_obstruction_scan.py INPUT.csv
+Exploratory search code and final summaries. These searches locate possible witnesses and useful diagrams; a failed exploratory search is not treated as a lower-bound proof.
 
-The exact input schema and command-line options are documented in the script.
+### `searches/game_levels/`
 
-The signature-four Owens table currently records the exact output used in the paper. The final public repository should also contain the generating script and the higher-signature scan files listed in `pending_import/IMPORT_MANIFEST.md`.
+PD codes and PLink drawings for the eight ten-crossing research levels
 
-## Important conventions
+```text
+10a6, 10a11, 10a51, 10a54, 10a61, 10a76, 10a77, 10a79
+```
 
-The repository uses the following conventions.
+and the connected-sum challenge `4_1#9_10`. The three first playable levels are Tortoise (`10a54`), Scream (`10a61`) and Jellyfish (`10a76`).
 
-- Knot names are normalized to the `10a54`, `11n3` style in prose and to stable ASCII identifiers in data files.
-- A crossing swap in PD notation uses the convention documented by the corresponding notebook or script; every search file must state its convention.
-- A database identification is promoted only under the invariant policy recorded by that run. Jones-only matches are not silently treated as exact identifications.
-- Missing volume is not a successful volume match.
+## Conventions and safeguards
+
+- Knot names use the compact `10a54`, `11n3` notation in prose.
+- Each crossing-change script records its PD crossing-switch convention.
+- Jones-only collisions are not promoted silently to knot identifications.
+- Missing hyperbolic volume is not counted as a successful volume match.
+- Numerical volume is used only as an identification filter, never as an exact lower-bound certificate.
 - Search failure is not a lower bound.
-- A game score is not a mathematical witness unless the replay can be reconstructed and checked.
+- A game score is not a mathematical witness unless its replay can be reconstructed and checked.
 
-## Relation to the paper
+## Citation
 
-The computations support the machine-checkable parts of
+```bibtex
+@misc{DranowskiGuoKabkovTubbenhauerUnknotData,
+  author = {Dranowski, Anne and Guo, Zhen and Kabkov, Yura and Tubbenhauer, Daniel},
+  title  = {Code, data and more for ``Machine learning methods and unknotting numbers''},
+  year   = {2026},
+  url    = {https://github.com/dtubbenhauer/unknot}
+}
+```
 
-> Machine learning methods and unknotting numbers
+A machine-readable citation is provided in `CITATION.cff`.
 
-joint with Anne Dranowski, Zhen Guo and Yura Kabkov.
+## Errata and contact
 
-The paper states the obstruction arguments and mathematical conclusions. This repository records the finite computations, candidate searches and verification data. The manuscript source and compiled PDF are maintained separately on Overleaf and arXiv.
-
-The suggested citation is
-
-    @misc{DranowskiGuoKabkovTubbenhauerUnknottingData,
-      author = {Dranowski, A. and Guo, Z. and Kabkov, Y. and Tubbenhauer, D.},
-      title = {Code, data and more for ``Machine learning methods and unknotting numbers''},
-      year = {2026},
-      url = {https://github.com/dtubbenhauer/unknot}
-    }
-
-## Repository contents
-
-Current intended contents:
-
-    README.md
-    LICENSE
-    requirements.txt
-    lower_bounds/
-    searches/
-
-The temporary directory `pending_import/` is part of this draft archive only and should disappear before the public release.
-
-## Erratum
-
-Empty so far.
+Corrections are recorded in [`ERRATUM.md`](ERRATUM.md). Please report problems to `daniel.tubbenhauer@sydney.edu.au` or open a GitHub issue.
