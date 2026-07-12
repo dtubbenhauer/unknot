@@ -114,7 +114,7 @@ The suggested citation is
       author = {Dranowski, A. and Guo, Z. and Kabkov, Y. and Tubbenhauer, D.},
       title = {Code, data and more for ``Machine learning methods and unknotting numbers''},
       year = {2026},
-      url = {https://github.com/dtubbenhauer/unknotting-number-data}
+      url = {https://github.com/dtubbenhauer/unknot}
     }
 
 ## Repository contents
