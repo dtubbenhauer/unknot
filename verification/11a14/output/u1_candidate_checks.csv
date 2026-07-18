@@ -1,4 +1,0 @@
-class_id,class_count,candidate_knot,candidate_crossing_number,class_jones_vector,class_alexander_vector,candidate_alexander_vector,alexander_agrees,computed_volume,candidate_volume,volume_agrees_1e-6,candidate_crossing_number_possible,excluded_as_u1_outcome
-J2,68,13n_585,13,"[-2,7,-1,2,-3,6,-6,7,-6,4,-3,1]","[0,6,1,-4,9,-11,9,-4,1]","[0,6,1,-4,9,-11,9,-4,1]",True,5.693024087410,11.6241421959,False,False,True
-J3,34,10_129,10,"[-5,3,-1,2,-3,4,-4,5,-3,2,-1]","[0,4,2,-6,9,-6,2]","[0,4,2,-6,9,-6,2]",True,7.801341224440,8.9015166372,False,True,True
-J4,17,10_156,10,"[-2,6,-1,3,-4,6,-6,6,-5,3,-1]","[0,6,1,-4,8,-9,8,-4,1]","[0,6,1,-4,8,-9,8,-4,1]",True,10.579021916899,11.1633906421,False,True,True
