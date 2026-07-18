@@ -1,0 +1,4213 @@
+{
+  "knots": [
+    {
+      "all_pairs": [
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 27,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 93,
+      "determinant": 37,
+      "determinant_one_pairs": [],
+      "knot": "10_6",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "tait_vertex_count": 7
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 98,
+      "determinant": 43,
+      "determinant_one_pairs": [],
+      "knot": "10_11",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "tait_vertex_count": 7
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 27,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 134,
+      "determinant": 41,
+      "determinant_one_pairs": [],
+      "knot": "10_47",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "tait_vertex_count": 4
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 41,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 17,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 25,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 138,
+      "determinant": 67,
+      "determinant_one_pairs": [],
+      "knot": "10_51",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "tait_vertex_count": 6
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 37,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 141,
+      "determinant": 47,
+      "determinant_one_pairs": [],
+      "knot": "10_54",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "tait_vertex_count": 4
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 148,
+      "determinant": 33,
+      "determinant_one_pairs": [],
+      "knot": "10_61",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          7,
+          8
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          8,
+          6
+        ]
+      ],
+      "tait_vertex_count": 9
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 39,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 15,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 163,
+      "determinant": 57,
+      "determinant_one_pairs": [],
+      "knot": "10_76",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "tait_vertex_count": 7
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 17,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 29,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 45,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 17,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 164,
+      "determinant": 63,
+      "determinant_one_pairs": [],
+      "knot": "10_77",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "tait_vertex_count": 6
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 31,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 31,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 166,
+      "determinant": 61,
+      "determinant_one_pairs": [],
+      "knot": "10_79",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "tait_vertex_count": 6
+    },
+    {
+      "all_pairs": [
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            2
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            3
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            4
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            8
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            1,
+            10
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            3
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            5
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            6
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            7
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            8
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            2,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            4
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            5
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            6
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            3,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            5
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            6
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            8
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            9
+          ]
+        },
+        {
+          "determinant": 9,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            4,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            6
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            7
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            8
+          ]
+        },
+        {
+          "determinant": 3,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            9
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            5,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            7
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            8
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            9
+          ]
+        },
+        {
+          "determinant": 11,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            6,
+            10
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            8
+          ]
+        },
+        {
+          "determinant": 7,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            9
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            7,
+            10
+          ]
+        },
+        {
+          "determinant": 5,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            9
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            8,
+            10
+          ]
+        },
+        {
+          "determinant": 13,
+          "determinant_obstructs_unknot": true,
+          "positions_1_based": [
+            9,
+            10
+          ]
+        }
+      ],
+      "all_pairs_obstructed_by_determinant": true,
+      "crossing_count": 10,
+      "database_row": 187,
+      "determinant": 65,
+      "determinant_one_pairs": [],
+      "knot": "10_100",
+      "pairs_obstructed_by_determinant": 45,
+      "pairs_tested": 45,
+      "tait_edges_by_crossing": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "tait_vertex_count": 4
+    }
+  ],
+  "method": "signed-Goeritz determinant screen for two changes in the supplied minimal diagrams",
+  "source_workbook": "knotinfo_data_complete(11).xls",
+  "validation_cases": [
+    {
+      "determinant_one_pairs": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "expected_determinant_one_pair_count": 10,
+      "knot": "5_1",
+      "pairs_tested": 10,
+      "passed": true
+    },
+    {
+      "determinant_one_pairs": [],
+      "expected_determinant_one_pair_count": 0,
+      "knot": "7_1",
+      "pairs_tested": 21,
+      "passed": true
+    }
+  ]
+}

@@ -1,119 +1,93 @@
-# Code, data and Erratum for Machine learning methods and unknotting numbers
+# Code and data for *Machine learning methods and unknotting numbers*
 
-We collected the code, searches, verification files and figures relevant for the paper
-*Machine learning methods and unknotting numbers* on this page. This is joint work
-with Anne Dranowski, Zhen Guo and Yura Kabkov.
+This repository contains the paper, exact certificate data, verification scripts,
+figures, and exploratory search records for work by Anne Dranowski, Zhen Guo,
+Yura Kabkov, and Daniel Tubbenhauer.
 
-The paper itself is maintained separately and will be linked here once it is available.
-The repository contains all computational files promised in the paper: the exact
-lower-bound certificates, the complete minimal-diagram check for `11a14`, the
-exploratory hard-unknot searches, and the files used for the research levels in
-`Unknot!`.
+> **Corrected and completed repository, 18 July 2026.** This is a complete replacement for the
+> earlier repository snapshot. The old signature-four, signature-six, and
+> signature-eight zero-class Owens batches contained an orientation error and are
+> intentionally absent. Do not merge the old `lower_bounds/owens_u2/` or
+> `lower_bounds/owens_signature_sharp/` directories into this version.
 
-An Erratum for the paper can be found at the bottom of this page and in
-[`ERRATUM.md`](ERRATUM.md).
+The correction and its mathematical consequences are documented in
+[`ERRATUM.md`](ERRATUM.md). A concise numerical summary is in
+[`RESULTS.md`](RESULTS.md), and [`STATUS.md`](STATUS.md) maps every computational
+claim in the paper to a repository path.
 
-## Contact
+## Main certified results
 
-If you find any errors in the paper, please email me:
+Relative to the recorded KnotInfo snapshot, the lower-bound computations give
+422 distinct improvements:
 
-`daniel.tubbenhauer@sydney.edu.au`
+| source | distinct improvements | exact values | non-exact improvements |
+|---|---:|---:|---:|
+| finite-field Alexander module | 362 | 317 | 45 |
+| Owens determinant/group conditions | 5 | 4 | 1 |
+| Montesinos correction terms | 56 | 51 | 5 |
+| overlap at `13a4877` | -1 | 0 | -1 |
+| **total** | **422** | **372** | **50** |
 
-Same goes for errors related to this page. Also, let us know if there are any
-questions about the code or the data.
-
-## Files in this repository
-
-The files are divided into exact lower-bound certificates, the `11a14`
-verification, exploratory searches, and input data. The individual directories
-contain short README files with more details and commands.
-
-### Lower bounds from the Owens obstruction
-
-The folder [`lower_bounds/owens_u2/`](lower_bounds/owens_u2/) contains the
-signature-four calculation. It gives 245 certificates ruling out unknotting number
-two: 237 exact values `u=3` and eight improvements from `[2,4]` to `[3,4]`.
-
-The folder
-[`lower_bounds/owens_signature_sharp/`](lower_bounds/owens_signature_sharp/)
-contains the higher-signature version of the same calculation. It gives
-
-1. 164 signature-six certificates, of which 152 prove `u=4` and twelve improve
-   `[3,5]` to `[4,5]`;
-2. 24 signature-eight certificates proving `u=5`.
-
-All these calculations use exact arithmetic. The CSV files are the machine-readable
-outputs; formatted XLSX copies are included for convenience.
-
-### Montesinos correction-term obstructions
-
-The folder [`lower_bounds/montesinos_u1/`](lower_bounds/montesinos_u1/) contains
-the complete scan of the 50 parseable three-tangle Montesinos knots considered in
-the paper. The correction-term test obstructs unknotting number one for 49 of them.
-The remaining knot is `12n309`, whose determinant is one.
-
-The subfolder `full_certificates/` contains one JSON certificate for each target,
-including the plumbing matrix, all correction terms, all compatible affine maps,
-and the exact reason each map fails.
-
-The folder
-[`lower_bounds/montesinos_signature_sharp/`](lower_bounds/montesinos_signature_sharp/)
-contains the seven higher-signature Montesinos certificates: five proving `u=3`
-and two proving `u=4`.
-
-### The all-minimal-diagram check for `11a14`
-
-The folder [`verification/11a14/`](verification/11a14/) contains the complete
-verification used in the paper.
-
-The code enumerates the 17 normalized minimal diagrams of `11a14` and checks every
-single crossing change on every diagram. Thus there are `17 x 11 = 187` rows. The
-outputs record the four invariant classes that occur and resolve all apparent
-collisions with knots of unknotting number one using the Jones polynomial, the
-Alexander polynomial and hyperbolic volume.
-
-The earlier direct two-swap experiment is also retained, but it is kept separate
-from the certificate used in the proof.
-
-### Hard-unknot searches
-
-The folder [`searches/hard_unknots/`](searches/hard_unknots/) contains the cleaned
-scripts and final summaries from the larger exploratory searches. These include
-one-crossing-change searches in slices of the public hard-unknot data and the
-extended search around the 42-crossing example used in the paper.
-
-A word of caution: these are searches for witnesses. Finding a short route gives an
-upper bound, but failing to find one is not a lower-bound proof. We include the
-negative searches for transparency and reproducibility, not as certificates.
-
-### `Unknot!` research levels
-
-The folder [`searches/game_levels/`](searches/game_levels/) contains PD codes and
-reproducible PLink figures for the eight ten-crossing research levels
+There is also a diagrammatic result for the ten unresolved ten-crossing knots
 
 ```text
-10a6, 10a11, 10a51, 10a54, 10a61, 10a76, 10a77, 10a79
+10_6, 10_11, 10_47, 10_51, 10_54,
+10_61, 10_76, 10_77, 10_79, 10_100.
 ```
 
-and for the connected-sum challenge `4_1#9_10`.
+Every minimal diagram of each of these knots has diagram unknotting number
+exactly three. The computation exhausts all 450 crossing pairs and supplies an
+explicit three-change Wirtinger--Tietze unknot certificate for each knot.
 
-The first three playable research levels are Tortoise (`10a54`), Scream (`10a61`)
-and Jellyfish (`10a76`).
+This does **not** determine the ordinary unknotting number of these knots: their
+KnotInfo intervals remain `[2,3]`, since a two-change route could occur in a
+nonminimal diagram. The complete Owens comparison included here also records why
+the five signature-eligible cases are not obstructed.
 
-### Input data and figures
+## Repository map
 
-The folder [`data/`](data/) records the KnotInfo snapshot used in the computations,
-the compact invariant indexes needed for the `11a14` check, and the correction to
-the `12n873` input discussed in the paper. The complete third-party KnotInfo table
-is not redistributed, but its version and checksum are recorded and the relevant
-indexes can be rebuilt deterministically.
+| path | contents |
+|---|---|
+| [`paper/`](paper/) | revised TeX source, all figures, and compiled PDF |
+| [`code/`](code/) | exact scripts for the complete Alexander, Owens, and ten-crossing computations |
+| [`lower_bounds/alexander_module/`](lower_bounds/alexander_module/) | the complete 5,121-row elementary-ideal scan, all 363 successful witnesses, the 362 genuinely new improvements, and the 13 additions beyond the restricted scan |
+| [`lower_bounds/owens/`](lower_bounds/owens/) | five valid determinant/group certificates and full ten-crossing correction-term comparisons |
+| [`lower_bounds/montesinos_u1/`](lower_bounds/montesinos_u1/) | 50 complete unknotting-number-one target certificates |
+| [`lower_bounds/montesinos_signature_sharp/`](lower_bounds/montesinos_signature_sharp/) | seven higher signature-sharp Montesinos certificates |
+| [`verification/ten_crossing_minimal_diagrams/`](verification/ten_crossing_minimal_diagrams/) | all 450 pair determinants and ten three-change unknot certificates |
+| [`verification/11a14/`](verification/11a14/) | 17 minimal diagrams, 187 crossing changes, and invariant collision checks |
+| [`data/`](data/) | input provenance and compact derived indexes |
+| [`searches/`](searches/) | hard-unknot exploratory searches and `Unknot!` research-level data |
+| [`figures/`](figures/) | standalone sources for the key-knot figures |
 
-The folder [`figures/key_knots/`](figures/key_knots/) contains the PLink sources and
-PNG files for the main knot diagrams appearing in the paper.
+## Fast verification
 
-## Running the code
+The repository-level verifier uses only the Python standard library:
 
-The common Python dependencies can be installed with
+```bash
+python3 verify_repository.py
+```
+
+It checks the complete Alexander index distribution and certificate counts, the full five-knot Owens
+outcome, every ten-crossing pair and triple record, the Montesinos outputs, the
+`11a14` outputs, and the presence of the revised paper.
+
+For byte-level verification, run
+
+```bash
+sha256sum -c SHA256SUMS
+```
+
+Both checks are also run by the included GitHub Actions workflow.
+
+## Reproducing the new computations
+
+The complete third-party KnotInfo workbook is not redistributed. Its filename,
+shape, and SHA-256 checksum are recorded in
+[`data/workbook_provenance.json`](data/workbook_provenance.json). Place a matching
+copy anywhere locally and set `WORKBOOK` to its path.
+
+Install the computational dependencies with
 
 ```bash
 python3 -m venv .venv
@@ -121,34 +95,89 @@ source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 ```
 
-Most scripts use the `database-knotinfo` package. The diagram and search code also
-uses SnapPy and Spherogram.
-
-To check that all theorem-critical files are present with the expected sizes, run
-
-```bash
-python3 verify_repository.py
-```
-
-To check the files against the recorded checksums, run
+Rebuild the complete finite-field Alexander index. This exhausts all primes and
+extension degrees through the elementary-ideal criterion; it is not a bounded
+list of trial fields.
 
 ```bash
-sha256sum -c SHA256SUMS
+python3 code/complete_alexander_scan.py "$WORKBOOK" \
+  --output build/complete_alexander_scan.json
+python3 code/verify_complete_alexander_witnesses.py "$WORKBOOK" \
+  --scan build/complete_alexander_scan.json \
+  --output build/direct_rank_verification.json
 ```
 
-The same structural check is run automatically by GitHub Actions. The precise
-commands for rebuilding individual tables are given in the README files in the
-corresponding directories.
+The earlier restricted Alexander scan and the corrected Owens determinant/group
+audit can be rebuilt with
 
-A compact map from the claims in the paper to the relevant files is available in
-[`STATUS.md`](STATUS.md).
+```bash
+python3 code/knotinfo_strengthening_scan.py "$WORKBOOK" \
+  --tex paper/big_data_unknotting.tex \
+  --output-dir build/lower_bounds
+```
+
+Run the complete Owens correction-term comparison on the five eligible
+ten-crossing knots:
+
+```bash
+python3 code/full_owens_correction_terms.py "$WORKBOOK" \
+  --knots 10_6 10_47 10_61 10_76 10_100 \
+  --output build/full_owens_five_knots.json --quiet
+```
+
+Rebuild the minimal-diagram certificates:
+
+```bash
+python3 code/exhaust_two_changes_minimal_diagrams.py "$WORKBOOK" \
+  --output build/two_change_determinants.json
+python3 code/certify_three_changes_minimal_diagrams.py "$WORKBOOK" \
+  --output build/three_change_unknot_certificates.json --quiet
+```
+
+Equivalent convenience targets are provided by the `Makefile`; for example,
+
+```bash
+make reproduce-new WORKBOOK=/absolute/path/to/knotinfo_data_complete.xls
+```
+
+The complete Alexander scan takes several minutes on a typical laptop. The
+archived `complete_scan.json` contains every ideal test, so ordinary repository
+verification does not rerun it.
+
+The individual Montesinos and `11a14` directories contain their own rebuilding
+instructions.
+
+## Building the paper
+
+The PDF is already included. To rebuild it on a full TeX Live installation:
+
+```bash
+make paper
+```
+
+## Exploratory data
+
+The hard-unknot searches are retained for transparency, but negative search
+results are not used as lower-bound proofs. Their status is stated explicitly in
+[`searches/hard_unknots/README.md`](searches/hard_unknots/README.md).
+
+## Uploading this replacement
+
+This repository is designed to replace the old contents, not to be overlaid on
+them. After emptying the old GitHub repository, upload every file and directory
+from this package. In particular, keep `.github/workflows/verify.yml`, which runs
+the structural and checksum checks on every push.
+
+## Contact
+
+Please report paper or data errors to `daniel.tubbenhauer@sydney.edu.au`.
 
 ## Citation
 
 ```bibtex
 @misc{DranowskiGuoKabkovTubbenhauerUnknotData,
   author = {Dranowski, Anne and Guo, Zhen and Kabkov, Yura and Tubbenhauer, Daniel},
-  title  = {Code, data and more for ``Machine learning methods and unknotting numbers''},
+  title  = {Code and data for ``Machine learning methods and unknotting numbers''},
   year   = {2026},
   url    = {https://github.com/dtubbenhauer/unknot}
 }
@@ -156,11 +185,7 @@ A compact map from the claims in the paper to the relevant files is available in
 
 A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff).
 
-## Erratum
+## License
 
-No errors in the paper are known at present.
-
-The repository records one correction to the input data rather than to the paper:
-KnotInfo lists `12n873` with interval `[1,3]` and algebraic unknotting number two,
-so the interval used in the paper is `[2,3]`. See
-[`data/12n873_correction.csv`](data/12n873_correction.csv).
+The repository software is released under the [Unlicense](LICENSE). Third-party
+data and software retain their respective licenses.
