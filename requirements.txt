@@ -1,8 +1,0 @@
-database-knotinfo==2026.7.1
-networkx
-pandas
-sympy
-snappy
-spherogram
-tqdm
-gcsfs
