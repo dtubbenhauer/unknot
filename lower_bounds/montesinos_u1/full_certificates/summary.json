@@ -1,8 +1,0 @@
-{
-  "targets": 50,
-  "obstructed_basic": 49,
-  "obstructed_full": 49,
-  "total_spin_c_classes": 2456,
-  "total_affine_maps_both_orientations": 13498,
-  "note": "Full per-target JSON certificates; 12n_309 is the unique non-obstructed determinant-one row."
-}
