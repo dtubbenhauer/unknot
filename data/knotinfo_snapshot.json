@@ -1,9 +1,0 @@
-{
-  "source": "database-knotinfo Python package",
-  "package_version": "2026.7.1",
-  "snapshot_filename": "knotinfo_data_complete.csv",
-  "data_rows": 12966,
-  "sha256": "38bca86db835fa6aa8d1d43cd43cd814ba5e0fb4832d44408a53483e209d7835",
-  "generated_on": "2026-07-12",
-  "note": "The full third-party CSV is not redistributed. Scripts locate the installed package copy and verify relevant rows and determinants."
-}
