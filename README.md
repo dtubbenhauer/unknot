@@ -229,8 +229,8 @@ The paper and its source files are not part of this repository.
 
 ```bibtex
 @misc{DranowskiGuoKabkovTubbenhauerUnknotData,
-  author = {Dranowski, Anne and Guo, Zhen and Kabkov, Yura and Tubbenhauer, Daniel},
-  title  = {Code and data for ``Machine learning methods and unknotting numbers''},
+  author = {Dranowski, A. and Guo, Z. and Kabkov, Y. and Tubbenhauer, D.},
+  title  = {Code and more for the paper ``Machine learning methods and unknotting numbers''},
   year   = {2026},
   url    = {https://github.com/dtubbenhauer/unknot}
 }
