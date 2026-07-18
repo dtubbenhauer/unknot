@@ -1,191 +1,267 @@
-# Code and data for *Machine learning methods and unknotting numbers*
+# Categorification of some Penrose polynomials
 
-This repository contains the paper, exact certificate data, verification scripts,
-figures, and exploratory search records for work by Anne Dranowski, Zhen Guo,
-Yura Kabkov, and Daniel Tubbenhauer.
+This repository contains supplementary computational material for joint work with
+Daniel W. Collison, titled
 
-> **Corrected and completed repository, 18 July 2026.** This is a complete replacement for the
-> earlier repository snapshot. The old signature-four, signature-six, and
-> signature-eight zero-class Owens batches contained an orientation error and are
-> intentionally absent. Do not merge the old `lower_bounds/owens_u2/` or
-> `lower_bounds/owens_signature_sharp/` directories into this version.
+> Categorification of some Penrose polynomials
 
-The correction and its mathematical consequences are documented in
-[`ERRATUM.md`](ERRATUM.md). A concise numerical summary is in
-[`RESULTS.md`](RESULTS.md), and [`STATUS.md`](STATUS.md) maps every computational
-claim in the paper to a repository path.
+The arXiv version will be available at
 
-## Main certified results
+> https://arxiv.org/abs/2607.01632
 
-Relative to the recorded KnotInfo snapshot, the lower-bound computations give
-422 distinct improvements:
+The repository contains one main file:
 
-| source | distinct improvements | exact values | non-exact improvements |
-|---|---:|---:|---:|
-| finite-field Alexander module | 362 | 317 | 45 |
-| Owens determinant/group conditions | 5 | 4 | 1 |
-| Montesinos correction terms | 56 | 51 | 5 |
-| overlap at `13a4877` | -1 | 0 | -1 |
-| **total** | **422** | **372** | **50** |
+1. `mobius_homology_colab.ipynb`, a self-contained Google Colab notebook for
+   computing the homology associated with a perfect-matching ribbon graph using
+   the Möbius Frobenius algebra construction.
 
-There is also a diagrammatic result for the ten unresolved ten-crossing knots
-
-```text
-10_6, 10_11, 10_47, 10_51, 10_54,
-10_61, 10_76, 10_77, 10_79, 10_100.
-```
-
-Every minimal diagram of each of these knots has diagram unknotting number
-exactly three. The computation exhausts all 450 crossing pairs and supplies an
-explicit three-change Wirtinger--Tietze unknot certificate for each knot.
-
-This does **not** determine the ordinary unknotting number of these knots: their
-KnotInfo intervals remain `[2,3]`, since a two-change route could occur in a
-nonminimal diagram. The complete Owens comparison included here also records why
-the five signature-eligible cases are not obstructed.
-
-## Repository map
-
-| path | contents |
-|---|---|
-| [`paper/`](paper/) | revised TeX source, all figures, and compiled PDF |
-| [`code/`](code/) | exact scripts for the complete Alexander, Owens, and ten-crossing computations |
-| [`lower_bounds/alexander_module/`](lower_bounds/alexander_module/) | the complete 5,121-row elementary-ideal scan, all 363 successful witnesses, the 362 genuinely new improvements, and the 13 additions beyond the restricted scan |
-| [`lower_bounds/owens/`](lower_bounds/owens/) | five valid determinant/group certificates and full ten-crossing correction-term comparisons |
-| [`lower_bounds/montesinos_u1/`](lower_bounds/montesinos_u1/) | 50 complete unknotting-number-one target certificates |
-| [`lower_bounds/montesinos_signature_sharp/`](lower_bounds/montesinos_signature_sharp/) | seven higher signature-sharp Montesinos certificates |
-| [`verification/ten_crossing_minimal_diagrams/`](verification/ten_crossing_minimal_diagrams/) | all 450 pair determinants and ten three-change unknot certificates |
-| [`verification/11a14/`](verification/11a14/) | 17 minimal diagrams, 187 crossing changes, and invariant collision checks |
-| [`data/`](data/) | input provenance and compact derived indexes |
-| [`searches/`](searches/) | hard-unknot exploratory searches and `Unknot!` research-level data |
-| [`figures/`](figures/) | standalone sources for the key-knot figures |
-
-## Fast verification
-
-The repository-level verifier uses only the Python standard library:
-
-```bash
-python3 verify_repository.py
-```
-
-It checks the complete Alexander index distribution and certificate counts, the full five-knot Owens
-outcome, every ten-crossing pair and triple record, the Montesinos outputs, the
-`11a14` outputs, and the presence of the revised paper.
-
-For byte-level verification, run
-
-```bash
-sha256sum -c SHA256SUMS
-```
-
-Both checks are also run by the included GitHub Actions workflow.
-
-## Reproducing the new computations
-
-The complete third-party KnotInfo workbook is not redistributed. Its filename,
-shape, and SHA-256 checksum are recorded in
-[`data/workbook_provenance.json`](data/workbook_provenance.json). Place a matching
-copy anywhere locally and set `WORKBOOK` to its path.
-
-Install the computational dependencies with
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python3 -m pip install -r requirements.txt
-```
-
-Rebuild the complete finite-field Alexander index. This exhausts all primes and
-extension degrees through the elementary-ideal criterion; it is not a bounded
-list of trial fields.
-
-```bash
-python3 code/complete_alexander_scan.py "$WORKBOOK" \
-  --output build/complete_alexander_scan.json
-python3 code/verify_complete_alexander_witnesses.py "$WORKBOOK" \
-  --scan build/complete_alexander_scan.json \
-  --output build/direct_rank_verification.json
-```
-
-The earlier restricted Alexander scan and the corrected Owens determinant/group
-audit can be rebuilt with
-
-```bash
-python3 code/knotinfo_strengthening_scan.py "$WORKBOOK" \
-  --tex paper/big_data_unknotting.tex \
-  --output-dir build/lower_bounds
-```
-
-Run the complete Owens correction-term comparison on the five eligible
-ten-crossing knots:
-
-```bash
-python3 code/full_owens_correction_terms.py "$WORKBOOK" \
-  --knots 10_6 10_47 10_61 10_76 10_100 \
-  --output build/full_owens_five_knots.json --quiet
-```
-
-Rebuild the minimal-diagram certificates:
-
-```bash
-python3 code/exhaust_two_changes_minimal_diagrams.py "$WORKBOOK" \
-  --output build/two_change_determinants.json
-python3 code/certify_three_changes_minimal_diagrams.py "$WORKBOOK" \
-  --output build/three_change_unknot_certificates.json --quiet
-```
-
-Equivalent convenience targets are provided by the `Makefile`; for example,
-
-```bash
-make reproduce-new WORKBOOK=/absolute/path/to/knotinfo_data_complete.xls
-```
-
-The complete Alexander scan takes several minutes on a typical laptop. The
-archived `complete_scan.json` contains every ideal test, so ordinary repository
-verification does not rerun it.
-
-The individual Montesinos and `11a14` directories contain their own rebuilding
-instructions.
-
-## Building the paper
-
-The PDF is already included. To rebuild it on a full TeX Live installation:
-
-```bash
-make paper
-```
-
-## Exploratory data
-
-The hard-unknot searches are retained for transparency, but negative search
-results are not used as lower-bound proofs. Their status is stated explicitly in
-[`searches/hard_unknots/README.md`](searches/hard_unknots/README.md).
-
-## Uploading this replacement
-
-This repository is designed to replace the old contents, not to be overlaid on
-them. After emptying the old GitHub repository, upload every file and directory
-from this package. In particular, keep `.github/workflows/verify.yml`, which runs
-the structural and checksum checks on every push.
+The goal is transparency: the notebook gives an executable version of the
+construction, including the local Frobenius algebra maps, the cube of
+smoothings, the differentials, the check that the differential squares to zero,
+and the resulting homology dimensions.
 
 ## Contact
 
-Please report paper or data errors to `daniel.tubbenhauer@sydney.edu.au`.
+If you find any errors in the paper **please email me**:
 
-## Citation
+[dtubbenhauer@gmail.com](mailto:dtubbenhauer@gmail.com?subject=[GitHub]%web-reps)
+
+Same goes for any errors related to this page.
+
+## Main file
+
+### `mobius_homology_colab.ipynb`
+
+This notebook is the recommended entry point. It is self-contained and is meant
+to run directly in Google Colab.
+
+The input is a finite graph together with a chosen perfect matching. The
+matching edges are the edges that are smoothed. Each smoothing choice gives a
+state of a cube, and each state gives a collection of circles.
+
+For a state \(\alpha\), the notebook forms the chain-group summand
+
+$$
+    V_\alpha = V^{\otimes k_\alpha},
+$$
+
+where \(k_\alpha\) is the number of circles in the smoothing associated with
+\(\alpha\). The homological degree is the number of one-smoothings in
+\(\alpha\).
+
+The Frobenius algebra used in the notebook is
+
+$$
+    V=\mathbb Q[x,y]/(x^n, y^3-xy).
+$$
+
+For the default value `n = 1`, this specializes to
+
+$$
+    V=\mathbb Q[y]/(y^3),
+$$
+
+with basis
+
+$$
+    1,\quad y,\quad y^2.
+$$
+
+The Frobenius trace is chosen so that, for `n = 1`,
+
+$$
+    \epsilon(y^2)=3,
+$$
+
+and the trace is zero on the other basis elements. From this data, the notebook
+constructs multiplication, the Frobenius pairing, and the corresponding
+comultiplication.
+
+The differential is assembled edge-by-edge in the cube of smoothings. Along a
+cube edge, exactly one smoothing changes. The notebook compares the actual
+circle decompositions before and after the change and applies the corresponding
+local map:
+
+- multiplication \(\mu\), when two circles merge into one;
+- comultiplication \(\Delta\), when one circle splits into two;
+- the Möbius map \(m\), when one circle remains one circle but passes through a
+  Möbius-type local change.
+
+The notebook tracks the actual circle components, not just the number of
+circles. This matters because the local map has to be applied to the correct
+tensor factor or tensor factors inside \(V^{\otimes k}\).
+
+The signs in the differential are the usual cube signs: when changing the
+\(j\)-th smoothing coordinate, the sign is determined by the number of
+one-smoothings before coordinate \(j\).
+
+After building the differentials, the notebook checks
+
+$$
+    d_{i+1}d_i=0
+$$
+
+for all homological degrees. It then computes
+
+$$
+    H^i = \ker(d_i)/\mathrm{im}(d_{i-1})
+$$
+
+using exact rational linear algebra.
+
+The final output includes:
+
+- the number of circles in every smoothing state;
+- whether \(d^2=0\);
+- the homology dimensions by homological degree;
+- the corresponding Poincare polynomial.
+
+## Requirements
+
+The notebook is designed for Google Colab. No Sage installation is required.
+
+It uses:
+
+1. `sympy`, for exact rational matrices, ranks, and kernels;
+2. `itertools`, `collections`, and other standard-library Python modules.
+
+Google Colab already provides `sympy`. If running locally instead, install it
+with
+
+```bash
+python3 -m pip install sympy
+```
+
+The computation avoids floating-point linear algebra. Matrix ranks, nullities,
+and homology dimensions are computed over exact rational numbers.
+
+## Examples
+
+Open `mobius_homology_colab.ipynb` in Google Colab and run all cells from top to
+bottom.
+
+The editable input cell has the form
+
+```python
+pairs = [[2, 3], [3, 2], [1, 0], [0, 1]]
+matching = [[0, 1], [2, 3]]
+n = 1
+
+MH = MobiusHomology(pairs, matching, n=n)
+
+print("circle counts:", MH.state_circle_counts())
+print("d^2 = 0:", MH.check_d_squared())
+print("homology dimensions:", MH.homology_dimensions())
+print("Poincare polynomial:", MH.poincare_polynomial())
+```
+
+Here:
+
+- `pairs` encodes the ordinary graph-edge pairings;
+- `matching` encodes the perfect-matching edges whose smoothings form the cube;
+- `n` is the Frobenius algebra parameter.
+
+For this example, the expected output is
+
+```text
+circle counts: [[2], [1, 1], [1]]
+d^2 = 0: True
+homology dimensions: [6, 1, 1]
+Poincare polynomial: t**2 + t + 6
+```
+
+This means that the cube of smoothings has one state with two circles in
+homological degree zero, two states with one circle in homological degree one,
+and one state with one circle in homological degree two. The resulting homology
+has dimensions
+
+$$
+    \dim H^0=6,\qquad \dim H^1=1,\qquad \dim H^2=1,
+$$
+
+so the Poincare polynomial is
+
+$$
+    6+t+t^2.
+$$
+
+## What the notebook is doing
+
+The computation proceeds in five steps.
+
+First, the notebook enumerates all smoothing states. If there are \(r\)
+matching edges, then there are \(2^r\) states. A state is a binary vector of
+length \(r\).
+
+Second, for each state, the notebook constructs the actual smoothed circle
+components. These components are stored combinatorially, so that the code knows
+which tensor factor corresponds to which circle.
+
+Third, the notebook constructs the cube differential. It only connects states
+that differ in exactly one smoothing coordinate. This avoids the common mistake
+of connecting all states in adjacent homological degrees.
+
+Fourth, along each genuine cube edge, the notebook identifies the local change
+in the circle decomposition. Depending on the change, it inserts \(\mu\),
+\(\Delta\), or \(m\), together with identity maps on all unaffected tensor
+factors.
+
+Fifth, the notebook assembles the differential matrices, checks that their
+successive products are zero, and computes the homology by exact rank-nullity
+linear algebra.
+
+Thus the notebook computes the actual chain complex, not only the graded Euler
+characteristic and not only the number of circles in each smoothing.
+
+## Important conventions
+
+The notebook uses the following conventions.
+
+- Homological degree is the number of one-smoothings.
+- Cube signs are determined by the number of earlier one-smoothings.
+- The local map is chosen from the actual circle change:
+  \(2\to 1\) gives \(\mu\), \(1\to 2\) gives \(\Delta\), and \(1\to 1\) gives
+  the Möbius map \(m\).
+- Linear algebra is over \(\mathbb Q\).
+- The displayed Poincare polynomial records only homological degree.
+
+## Relation to the paper
+
+The computations are intended to support examples and checks in the paper
+
+> TBA
+
+joint with Daniel W. Collison.
+
+The arXiv placeholder is
+
+```text
+arXiv:TBA
+```
+
+The suggested citation is:
 
 ```bibtex
-@misc{DranowskiGuoKabkovTubbenhauerUnknotData,
-  author = {Dranowski, Anne and Guo, Zhen and Kabkov, Yura and Tubbenhauer, Daniel},
-  title  = {Code and data for ``Machine learning methods and unknotting numbers''},
-  year   = {2026},
-  url    = {https://github.com/dtubbenhauer/unknot}
+@misc{CollisonTubbenhauerMobiusHomologyData,
+  author = {Collison, D.W. and Tubbenhauer, D.},
+  title = {Code, data and more for ``{C}ategorification of some {P}enrose polynomials''},
+  year = {2026},
+  url = \url{https://github.com/dtubbenhauer/graphhomology}
 }
 ```
 
-A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff).
+## Repository contents
 
-## License
+Current intended contents:
 
-The repository software is released under the [Unlicense](LICENSE). Third-party
-data and software retain their respective licenses.
+```text
+README.md
+LICENSE
+mobius_homology_colab.ipynb
+```
+
+Additional examples, corrected notebooks, or output files may be added later.
+
+## Erratum
+
+Empty so far.
