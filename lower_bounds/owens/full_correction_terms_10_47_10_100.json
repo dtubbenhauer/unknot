@@ -1,0 +1,2679 @@
+{
+  "knots": [
+    {
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "correction_terms_cyclic_order": {
+            "generator": [
+              1,
+              20,
+              19,
+              11
+            ],
+            "values": [
+              "-1",
+              "27/41",
+              "67/41",
+              "-3/41",
+              "-19/41",
+              "19/41",
+              "29/41",
+              "11/41",
+              "-35/41",
+              "55/41",
+              "35/41",
+              "-13/41",
+              "-7/41",
+              "53/41",
+              "3/41",
+              "7/41",
+              "-17/41",
+              "13/41",
+              "15/41",
+              "-11/41",
+              "17/41",
+              "17/41",
+              "-11/41",
+              "15/41",
+              "13/41",
+              "-17/41",
+              "7/41",
+              "3/41",
+              "53/41",
+              "-7/41",
+              "-13/41",
+              "35/41",
+              "55/41",
+              "-35/41",
+              "11/41",
+              "29/41",
+              "19/41",
+              "-19/41",
+              "-3/41",
+              "67/41",
+              "27/41"
+            ]
+          },
+          "first_failure_by_unit": [
+            {
+              "congruence_holds": false,
+              "difference": "56/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 1,
+              "target_value": "-29/41",
+              "unit": 1
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 2,
+              "target_value": "7/41",
+              "unit": 2
+            },
+            {
+              "congruence_holds": false,
+              "difference": "42/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 3,
+              "target_value": "-15/41",
+              "unit": 3
+            },
+            {
+              "congruence_holds": false,
+              "difference": "40/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 4,
+              "target_value": "-13/41",
+              "unit": 4
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 5,
+              "target_value": "13/41",
+              "unit": 5
+            },
+            {
+              "congruence_holds": false,
+              "difference": "46/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 6,
+              "target_value": "-19/41",
+              "unit": 6
+            },
+            {
+              "congruence_holds": false,
+              "difference": "54/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 7,
+              "target_value": "-27/41",
+              "unit": 7
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 8,
+              "target_value": "-11/41",
+              "unit": 8
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-2/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 9,
+              "target_value": "29/41",
+              "unit": 9
+            },
+            {
+              "congruence_holds": false,
+              "difference": "16/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 10,
+              "target_value": "11/41",
+              "unit": 10
+            },
+            {
+              "congruence_holds": false,
+              "difference": "92/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 11,
+              "target_value": "-65/41",
+              "unit": 11
+            },
+            {
+              "congruence_holds": false,
+              "difference": "62/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 12,
+              "target_value": "-35/41",
+              "unit": 12
+            },
+            {
+              "congruence_holds": false,
+              "difference": "8/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 13,
+              "target_value": "19/41",
+              "unit": 13
+            },
+            {
+              "congruence_holds": false,
+              "difference": "12/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 14,
+              "target_value": "15/41",
+              "unit": 14
+            },
+            {
+              "congruence_holds": false,
+              "difference": "74/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 15,
+              "target_value": "-47/41",
+              "unit": 15
+            },
+            {
+              "congruence_holds": false,
+              "difference": "30/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 16,
+              "target_value": "-3/41",
+              "unit": 16
+            },
+            {
+              "congruence_holds": false,
+              "difference": "44/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 17,
+              "target_value": "-17/41",
+              "unit": 17
+            },
+            {
+              "congruence_holds": false,
+              "difference": "34/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 18,
+              "target_value": "-7/41",
+              "unit": 18
+            },
+            {
+              "congruence_holds": false,
+              "difference": "24/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 20,
+              "target_value": "3/41",
+              "unit": 20
+            },
+            {
+              "congruence_holds": false,
+              "difference": "24/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 21,
+              "target_value": "3/41",
+              "unit": 21
+            },
+            {
+              "congruence_holds": false,
+              "difference": "34/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 23,
+              "target_value": "-7/41",
+              "unit": 23
+            },
+            {
+              "congruence_holds": false,
+              "difference": "44/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 24,
+              "target_value": "-17/41",
+              "unit": 24
+            },
+            {
+              "congruence_holds": false,
+              "difference": "30/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 25,
+              "target_value": "-3/41",
+              "unit": 25
+            },
+            {
+              "congruence_holds": false,
+              "difference": "74/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 26,
+              "target_value": "-47/41",
+              "unit": 26
+            },
+            {
+              "congruence_holds": false,
+              "difference": "12/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 27,
+              "target_value": "15/41",
+              "unit": 27
+            },
+            {
+              "congruence_holds": false,
+              "difference": "8/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 28,
+              "target_value": "19/41",
+              "unit": 28
+            },
+            {
+              "congruence_holds": false,
+              "difference": "62/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 29,
+              "target_value": "-35/41",
+              "unit": 29
+            },
+            {
+              "congruence_holds": false,
+              "difference": "92/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 30,
+              "target_value": "-65/41",
+              "unit": 30
+            },
+            {
+              "congruence_holds": false,
+              "difference": "16/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 31,
+              "target_value": "11/41",
+              "unit": 31
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-2/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 32,
+              "target_value": "29/41",
+              "unit": 32
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 33,
+              "target_value": "-11/41",
+              "unit": 33
+            },
+            {
+              "congruence_holds": false,
+              "difference": "54/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 34,
+              "target_value": "-27/41",
+              "unit": 34
+            },
+            {
+              "congruence_holds": false,
+              "difference": "46/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 35,
+              "target_value": "-19/41",
+              "unit": 35
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 36,
+              "target_value": "13/41",
+              "unit": 36
+            },
+            {
+              "congruence_holds": false,
+              "difference": "40/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 37,
+              "target_value": "-13/41",
+              "unit": 37
+            },
+            {
+              "congruence_holds": false,
+              "difference": "42/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 38,
+              "target_value": "-15/41",
+              "unit": 38
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 39,
+              "target_value": "7/41",
+              "unit": 39
+            },
+            {
+              "congruence_holds": false,
+              "difference": "56/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "27/41",
+              "target_coordinate": 40,
+              "target_value": "-29/41",
+              "unit": 40
+            }
+          ],
+          "matrix": [
+            [
+              2,
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              8,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              2
+            ]
+          ],
+          "source_generator": [
+            1,
+            20,
+            19,
+            11
+          ],
+          "surviving_units": [
+            19,
+            22
+          ],
+          "target_generator": [
+            1,
+            20,
+            39,
+            17,
+            36,
+            9,
+            23
+          ],
+          "triple_m1_m2_a": [
+            2,
+            8,
+            1
+          ],
+          "units_checked": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "correction_terms_cyclic_order": {
+            "generator": [
+              1,
+              20,
+              33,
+              4
+            ],
+            "values": [
+              "-1",
+              "7/41",
+              "-13/41",
+              "-19/41",
+              "-11/41",
+              "11/41",
+              "47/41",
+              "15/41",
+              "-3/41",
+              "-7/41",
+              "3/41",
+              "27/41",
+              "-17/41",
+              "35/41",
+              "19/41",
+              "17/41",
+              "29/41",
+              "-27/41",
+              "13/41",
+              "-15/41",
+              "-29/41",
+              "-29/41",
+              "-15/41",
+              "13/41",
+              "-27/41",
+              "29/41",
+              "17/41",
+              "19/41",
+              "35/41",
+              "-17/41",
+              "27/41",
+              "3/41",
+              "-7/41",
+              "-3/41",
+              "15/41",
+              "47/41",
+              "11/41",
+              "-11/41",
+              "-19/41",
+              "-13/41",
+              "7/41"
+            ]
+          },
+          "first_failure_by_unit": [
+            {
+              "congruence_holds": false,
+              "difference": "36/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 1,
+              "target_value": "-29/41",
+              "unit": 1
+            },
+            {
+              "congruence_holds": false,
+              "difference": "22/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 3,
+              "target_value": "-15/41",
+              "unit": 3
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 4,
+              "target_value": "-13/41",
+              "unit": 4
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-6/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 5,
+              "target_value": "13/41",
+              "unit": 5
+            },
+            {
+              "congruence_holds": false,
+              "difference": "26/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 6,
+              "target_value": "-19/41",
+              "unit": 6
+            },
+            {
+              "congruence_holds": false,
+              "difference": "34/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 7,
+              "target_value": "-27/41",
+              "unit": 7
+            },
+            {
+              "congruence_holds": false,
+              "difference": "18/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 8,
+              "target_value": "-11/41",
+              "unit": 8
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-22/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 9,
+              "target_value": "29/41",
+              "unit": 9
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-4/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 10,
+              "target_value": "11/41",
+              "unit": 10
+            },
+            {
+              "congruence_holds": false,
+              "difference": "72/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 11,
+              "target_value": "-65/41",
+              "unit": 11
+            },
+            {
+              "congruence_holds": false,
+              "difference": "42/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 12,
+              "target_value": "-35/41",
+              "unit": 12
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-12/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 13,
+              "target_value": "19/41",
+              "unit": 13
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-8/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 14,
+              "target_value": "15/41",
+              "unit": 14
+            },
+            {
+              "congruence_holds": false,
+              "difference": "54/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 15,
+              "target_value": "-47/41",
+              "unit": 15
+            },
+            {
+              "congruence_holds": false,
+              "difference": "10/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 16,
+              "target_value": "-3/41",
+              "unit": 16
+            },
+            {
+              "congruence_holds": false,
+              "difference": "24/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 17,
+              "target_value": "-17/41",
+              "unit": 17
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 18,
+              "target_value": "-7/41",
+              "unit": 18
+            },
+            {
+              "congruence_holds": false,
+              "difference": "62/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 19,
+              "target_value": "-55/41",
+              "unit": 19
+            },
+            {
+              "congruence_holds": false,
+              "difference": "4/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 20,
+              "target_value": "3/41",
+              "unit": 20
+            },
+            {
+              "congruence_holds": false,
+              "difference": "4/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 21,
+              "target_value": "3/41",
+              "unit": 21
+            },
+            {
+              "congruence_holds": false,
+              "difference": "62/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 22,
+              "target_value": "-55/41",
+              "unit": 22
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 23,
+              "target_value": "-7/41",
+              "unit": 23
+            },
+            {
+              "congruence_holds": false,
+              "difference": "24/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 24,
+              "target_value": "-17/41",
+              "unit": 24
+            },
+            {
+              "congruence_holds": false,
+              "difference": "10/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 25,
+              "target_value": "-3/41",
+              "unit": 25
+            },
+            {
+              "congruence_holds": false,
+              "difference": "54/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 26,
+              "target_value": "-47/41",
+              "unit": 26
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-8/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 27,
+              "target_value": "15/41",
+              "unit": 27
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-12/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 28,
+              "target_value": "19/41",
+              "unit": 28
+            },
+            {
+              "congruence_holds": false,
+              "difference": "42/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 29,
+              "target_value": "-35/41",
+              "unit": 29
+            },
+            {
+              "congruence_holds": false,
+              "difference": "72/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 30,
+              "target_value": "-65/41",
+              "unit": 30
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-4/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 31,
+              "target_value": "11/41",
+              "unit": 31
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-22/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 32,
+              "target_value": "29/41",
+              "unit": 32
+            },
+            {
+              "congruence_holds": false,
+              "difference": "18/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 33,
+              "target_value": "-11/41",
+              "unit": 33
+            },
+            {
+              "congruence_holds": false,
+              "difference": "34/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 34,
+              "target_value": "-27/41",
+              "unit": 34
+            },
+            {
+              "congruence_holds": false,
+              "difference": "26/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 35,
+              "target_value": "-19/41",
+              "unit": 35
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-6/41",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 36,
+              "target_value": "13/41",
+              "unit": 36
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 37,
+              "target_value": "-13/41",
+              "unit": 37
+            },
+            {
+              "congruence_holds": false,
+              "difference": "22/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 38,
+              "target_value": "-15/41",
+              "unit": 38
+            },
+            {
+              "congruence_holds": false,
+              "difference": "36/41",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "7/41",
+              "target_coordinate": 40,
+              "target_value": "-29/41",
+              "unit": 40
+            }
+          ],
+          "matrix": [
+            [
+              4,
+              1,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              6,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              2
+            ]
+          ],
+          "source_generator": [
+            1,
+            20,
+            33,
+            4
+          ],
+          "surviving_units": [
+            2,
+            39
+          ],
+          "target_generator": [
+            1,
+            20,
+            39,
+            17,
+            36,
+            9,
+            23
+          ],
+          "triple_m1_m2_a": [
+            4,
+            6,
+            3
+          ],
+          "units_checked": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "database_row": 134,
+      "determinant": 41,
+      "goeritz_forms": [
+        {
+          "four_times_spin_value": 4,
+          "matrix": [
+            [
+              7,
+              -5,
+              -2
+            ],
+            [
+              -5,
+              7,
+              -1
+            ],
+            [
+              -2,
+              -1,
+              4
+            ]
+          ],
+          "rank": 3,
+          "selected_orientation": false
+        },
+        {
+          "four_times_spin_value": -4,
+          "matrix": [
+            [
+              2,
+              -1,
+              0,
+              0,
+              0,
+              0,
+              -1
+            ],
+            [
+              -1,
+              2,
+              -1,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              -1,
+              2,
+              -1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              -1,
+              2,
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              -1,
+              3,
+              -1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              -1,
+              2,
+              -1
+            ],
+            [
+              -1,
+              0,
+              0,
+              0,
+              0,
+              -1,
+              4
+            ]
+          ],
+          "rank": 7,
+          "selected_orientation": true
+        }
+      ],
+      "knot": "10_47",
+      "oriented_goeritz_correction_terms_cyclic_order": {
+        "generator": [
+          1,
+          20,
+          39,
+          17,
+          36,
+          9,
+          23
+        ],
+        "values": [
+          "-1",
+          "-29/41",
+          "7/41",
+          "-15/41",
+          "-13/41",
+          "13/41",
+          "-19/41",
+          "-27/41",
+          "-11/41",
+          "29/41",
+          "11/41",
+          "-65/41",
+          "-35/41",
+          "19/41",
+          "15/41",
+          "-47/41",
+          "-3/41",
+          "-17/41",
+          "-7/41",
+          "-55/41",
+          "3/41",
+          "3/41",
+          "-55/41",
+          "-7/41",
+          "-17/41",
+          "-3/41",
+          "-47/41",
+          "15/41",
+          "19/41",
+          "-35/41",
+          "-65/41",
+          "11/41",
+          "29/41",
+          "-11/41",
+          "-27/41",
+          "-19/41",
+          "13/41",
+          "-13/41",
+          "-15/41",
+          "7/41",
+          "-29/41"
+        ]
+      },
+      "owens_obstructs_u_equals_2": false,
+      "signature_after_reflection_if_needed": 4,
+      "workbook_signature": 4
+    },
+    {
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "correction_terms_cyclic_order": {
+            "generator": [
+              1,
+              32,
+              31,
+              17
+            ],
+            "values": [
+              "-1",
+              "59/65",
+              "171/65",
+              "11/65",
+              "-31/65",
+              "9/13",
+              "109/65",
+              "31/65",
+              "-59/65",
+              "99/65",
+              "23/13",
+              "-11/65",
+              "-19/65",
+              "7/5",
+              "59/65",
+              "3/13",
+              "-41/65",
+              "151/65",
+              "71/65",
+              "-21/65",
+              "1/13",
+              "149/65",
+              "21/65",
+              "11/65",
+              "-11/65",
+              "17/13",
+              "3/5",
+              "-19/65",
+              "41/65",
+              "89/65",
+              "-1/13",
+              "19/65",
+              "31/65",
+              "31/65",
+              "19/65",
+              "-1/13",
+              "89/65",
+              "41/65",
+              "-19/65",
+              "3/5",
+              "17/13",
+              "-11/65",
+              "11/65",
+              "21/65",
+              "149/65",
+              "1/13",
+              "-21/65",
+              "71/65",
+              "151/65",
+              "-41/65",
+              "3/13",
+              "59/65",
+              "7/5",
+              "-19/65",
+              "-11/65",
+              "23/13",
+              "99/65",
+              "-59/65",
+              "31/65",
+              "109/65",
+              "9/13",
+              "-31/65",
+              "11/65",
+              "171/65",
+              "59/65"
+            ]
+          },
+          "first_failure_by_unit": [
+            {
+              "congruence_holds": false,
+              "difference": "18/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 1,
+              "target_value": "-31/65",
+              "unit": 1
+            },
+            {
+              "congruence_holds": false,
+              "difference": "118/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 2,
+              "target_value": "-59/65",
+              "unit": 2
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/5",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 3,
+              "target_value": "-19/65",
+              "unit": 3
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 4,
+              "target_value": "-41/65",
+              "unit": 4
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 6,
+              "target_value": "-11/65",
+              "unit": 6
+            },
+            {
+              "congruence_holds": false,
+              "difference": "148/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 7,
+              "target_value": "-89/65",
+              "unit": 7
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 8,
+              "target_value": "31/65",
+              "unit": 8
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 9,
+              "target_value": "-41/65",
+              "unit": 9
+            },
+            {
+              "congruence_holds": false,
+              "difference": "8/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 11,
+              "target_value": "19/65",
+              "unit": 11
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 12,
+              "target_value": "21/65",
+              "unit": 12
+            },
+            {
+              "congruence_holds": false,
+              "difference": "18/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 14,
+              "target_value": "-31/65",
+              "unit": 14
+            },
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 17,
+              "target_value": "11/65",
+              "unit": 17
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 18,
+              "target_value": "31/65",
+              "unit": 18
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 19,
+              "target_value": "-11/65",
+              "unit": 19
+            },
+            {
+              "congruence_holds": false,
+              "difference": "16/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 21,
+              "target_value": "-21/65",
+              "unit": 21
+            },
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 22,
+              "target_value": "11/65",
+              "unit": 22
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/5",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 23,
+              "target_value": "-19/65",
+              "unit": 23
+            },
+            {
+              "congruence_holds": false,
+              "difference": "8/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 24,
+              "target_value": "19/65",
+              "unit": 24
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 27,
+              "target_value": "21/65",
+              "unit": 27
+            },
+            {
+              "congruence_holds": false,
+              "difference": "118/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 28,
+              "target_value": "-59/65",
+              "unit": 28
+            },
+            {
+              "congruence_holds": false,
+              "difference": "16/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 31,
+              "target_value": "-21/65",
+              "unit": 31
+            },
+            {
+              "congruence_holds": false,
+              "difference": "148/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 32,
+              "target_value": "-89/65",
+              "unit": 32
+            },
+            {
+              "congruence_holds": false,
+              "difference": "148/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 33,
+              "target_value": "-89/65",
+              "unit": 33
+            },
+            {
+              "congruence_holds": false,
+              "difference": "16/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 34,
+              "target_value": "-21/65",
+              "unit": 34
+            },
+            {
+              "congruence_holds": false,
+              "difference": "118/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 37,
+              "target_value": "-59/65",
+              "unit": 37
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 38,
+              "target_value": "21/65",
+              "unit": 38
+            },
+            {
+              "congruence_holds": false,
+              "difference": "8/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 41,
+              "target_value": "19/65",
+              "unit": 41
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/5",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 42,
+              "target_value": "-19/65",
+              "unit": 42
+            },
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 43,
+              "target_value": "11/65",
+              "unit": 43
+            },
+            {
+              "congruence_holds": false,
+              "difference": "16/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 44,
+              "target_value": "-21/65",
+              "unit": 44
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 46,
+              "target_value": "-11/65",
+              "unit": 46
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 47,
+              "target_value": "31/65",
+              "unit": 47
+            },
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 48,
+              "target_value": "11/65",
+              "unit": 48
+            },
+            {
+              "congruence_holds": false,
+              "difference": "18/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 51,
+              "target_value": "-31/65",
+              "unit": 51
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 53,
+              "target_value": "21/65",
+              "unit": 53
+            },
+            {
+              "congruence_holds": false,
+              "difference": "8/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 54,
+              "target_value": "19/65",
+              "unit": 54
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 56,
+              "target_value": "-41/65",
+              "unit": 56
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 57,
+              "target_value": "31/65",
+              "unit": 57
+            },
+            {
+              "congruence_holds": false,
+              "difference": "148/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 58,
+              "target_value": "-89/65",
+              "unit": 58
+            },
+            {
+              "congruence_holds": false,
+              "difference": "14/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 59,
+              "target_value": "-11/65",
+              "unit": 59
+            },
+            {
+              "congruence_holds": false,
+              "difference": "20/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 61,
+              "target_value": "-41/65",
+              "unit": 61
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/5",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 62,
+              "target_value": "-19/65",
+              "unit": 62
+            },
+            {
+              "congruence_holds": false,
+              "difference": "118/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 63,
+              "target_value": "-59/65",
+              "unit": 63
+            },
+            {
+              "congruence_holds": false,
+              "difference": "18/13",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "59/65",
+              "target_coordinate": 64,
+              "target_value": "-31/65",
+              "unit": 64
+            }
+          ],
+          "matrix": [
+            [
+              2,
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              12,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              2
+            ]
+          ],
+          "source_generator": [
+            1,
+            32,
+            31,
+            17
+          ],
+          "surviving_units": [
+            16,
+            29,
+            36,
+            49
+          ],
+          "target_generator": [
+            5,
+            1,
+            41,
+            16,
+            56,
+            22,
+            9
+          ],
+          "triple_m1_m2_a": [
+            2,
+            12,
+            1
+          ],
+          "units_checked": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            14,
+            16,
+            17,
+            18,
+            19,
+            21,
+            22,
+            23,
+            24,
+            27,
+            28,
+            29,
+            31,
+            32,
+            33,
+            34,
+            36,
+            37,
+            38,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49,
+            51,
+            53,
+            54,
+            56,
+            57,
+            58,
+            59,
+            61,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "correction_terms_cyclic_order": {
+            "generator": [
+              5,
+              30,
+              1,
+              32
+            ],
+            "values": [
+              "-1",
+              "17/65",
+              "3/65",
+              "23/65",
+              "-53/65",
+              "7/13",
+              "27/65",
+              "53/65",
+              "-17/65",
+              "77/65",
+              "15/13",
+              "107/65",
+              "43/65",
+              "1/5",
+              "17/65",
+              "11/13",
+              "-3/65",
+              "-27/65",
+              "-17/65",
+              "27/65",
+              "-5/13",
+              "-43/65",
+              "-27/65",
+              "23/65",
+              "-23/65",
+              "-7/13",
+              "-1/5",
+              "43/65",
+              "3/65",
+              "-3/65",
+              "5/13",
+              "87/65",
+              "53/65",
+              "53/65",
+              "87/65",
+              "5/13",
+              "-3/65",
+              "3/65",
+              "43/65",
+              "-1/5",
+              "-7/13",
+              "-23/65",
+              "23/65",
+              "-27/65",
+              "-43/65",
+              "-5/13",
+              "27/65",
+              "-17/65",
+              "-27/65",
+              "-3/65",
+              "11/13",
+              "17/65",
+              "1/5",
+              "43/65",
+              "107/65",
+              "15/13",
+              "77/65",
+              "-17/65",
+              "53/65",
+              "27/65",
+              "7/13",
+              "-53/65",
+              "23/65",
+              "3/65",
+              "17/65"
+            ]
+          },
+          "first_failure_by_unit": [
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 1,
+              "target_value": "-31/65",
+              "unit": 1
+            },
+            {
+              "congruence_holds": false,
+              "difference": "76/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 2,
+              "target_value": "-59/65",
+              "unit": 2
+            },
+            {
+              "congruence_holds": false,
+              "difference": "36/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 3,
+              "target_value": "-19/65",
+              "unit": 3
+            },
+            {
+              "congruence_holds": false,
+              "difference": "58/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 4,
+              "target_value": "-41/65",
+              "unit": 4
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 6,
+              "target_value": "-11/65",
+              "unit": 6
+            },
+            {
+              "congruence_holds": false,
+              "difference": "106/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 7,
+              "target_value": "-89/65",
+              "unit": 7
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-14/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 8,
+              "target_value": "31/65",
+              "unit": 8
+            },
+            {
+              "congruence_holds": false,
+              "difference": "58/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 9,
+              "target_value": "-41/65",
+              "unit": 9
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-2/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 11,
+              "target_value": "19/65",
+              "unit": 11
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-4/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 12,
+              "target_value": "21/65",
+              "unit": 12
+            },
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 14,
+              "target_value": "-31/65",
+              "unit": 14
+            },
+            {
+              "congruence_holds": false,
+              "difference": "88/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 16,
+              "target_value": "-71/65",
+              "unit": 16
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 17,
+              "target_value": "11/65",
+              "unit": 17
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-14/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 18,
+              "target_value": "31/65",
+              "unit": 18
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 19,
+              "target_value": "-11/65",
+              "unit": 19
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 21,
+              "target_value": "-21/65",
+              "unit": 21
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 22,
+              "target_value": "11/65",
+              "unit": 22
+            },
+            {
+              "congruence_holds": false,
+              "difference": "36/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 23,
+              "target_value": "-19/65",
+              "unit": 23
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-2/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 24,
+              "target_value": "19/65",
+              "unit": 24
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-4/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 27,
+              "target_value": "21/65",
+              "unit": 27
+            },
+            {
+              "congruence_holds": false,
+              "difference": "76/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 28,
+              "target_value": "-59/65",
+              "unit": 28
+            },
+            {
+              "congruence_holds": false,
+              "difference": "88/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 29,
+              "target_value": "-71/65",
+              "unit": 29
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 31,
+              "target_value": "-21/65",
+              "unit": 31
+            },
+            {
+              "congruence_holds": false,
+              "difference": "106/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 32,
+              "target_value": "-89/65",
+              "unit": 32
+            },
+            {
+              "congruence_holds": false,
+              "difference": "106/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 33,
+              "target_value": "-89/65",
+              "unit": 33
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 34,
+              "target_value": "-21/65",
+              "unit": 34
+            },
+            {
+              "congruence_holds": false,
+              "difference": "88/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 36,
+              "target_value": "-71/65",
+              "unit": 36
+            },
+            {
+              "congruence_holds": false,
+              "difference": "76/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 37,
+              "target_value": "-59/65",
+              "unit": 37
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-4/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 38,
+              "target_value": "21/65",
+              "unit": 38
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-2/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 41,
+              "target_value": "19/65",
+              "unit": 41
+            },
+            {
+              "congruence_holds": false,
+              "difference": "36/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 42,
+              "target_value": "-19/65",
+              "unit": 42
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 43,
+              "target_value": "11/65",
+              "unit": 43
+            },
+            {
+              "congruence_holds": false,
+              "difference": "38/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 44,
+              "target_value": "-21/65",
+              "unit": 44
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 46,
+              "target_value": "-11/65",
+              "unit": 46
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-14/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 47,
+              "target_value": "31/65",
+              "unit": 47
+            },
+            {
+              "congruence_holds": false,
+              "difference": "6/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 48,
+              "target_value": "11/65",
+              "unit": 48
+            },
+            {
+              "congruence_holds": false,
+              "difference": "88/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 49,
+              "target_value": "-71/65",
+              "unit": 49
+            },
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 51,
+              "target_value": "-31/65",
+              "unit": 51
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-4/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 53,
+              "target_value": "21/65",
+              "unit": 53
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-2/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 54,
+              "target_value": "19/65",
+              "unit": 54
+            },
+            {
+              "congruence_holds": false,
+              "difference": "58/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 56,
+              "target_value": "-41/65",
+              "unit": 56
+            },
+            {
+              "congruence_holds": false,
+              "difference": "-14/65",
+              "inequality_holds": false,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 57,
+              "target_value": "31/65",
+              "unit": 57
+            },
+            {
+              "congruence_holds": false,
+              "difference": "106/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 58,
+              "target_value": "-89/65",
+              "unit": 58
+            },
+            {
+              "congruence_holds": false,
+              "difference": "28/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 59,
+              "target_value": "-11/65",
+              "unit": 59
+            },
+            {
+              "congruence_holds": false,
+              "difference": "58/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 61,
+              "target_value": "-41/65",
+              "unit": 61
+            },
+            {
+              "congruence_holds": false,
+              "difference": "36/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 62,
+              "target_value": "-19/65",
+              "unit": 62
+            },
+            {
+              "congruence_holds": false,
+              "difference": "76/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 63,
+              "target_value": "-59/65",
+              "unit": 63
+            },
+            {
+              "congruence_holds": false,
+              "difference": "48/65",
+              "inequality_holds": true,
+              "source_coordinate": 1,
+              "source_value": "17/65",
+              "target_coordinate": 64,
+              "target_value": "-31/65",
+              "unit": 64
+            }
+          ],
+          "matrix": [
+            [
+              6,
+              1,
+              5,
+              0
+            ],
+            [
+              1,
+              2,
+              0,
+              0
+            ],
+            [
+              5,
+              0,
+              8,
+              1
+            ],
+            [
+              0,
+              0,
+              1,
+              2
+            ]
+          ],
+          "source_generator": [
+            5,
+            30,
+            1,
+            32
+          ],
+          "surviving_units": [],
+          "target_generator": [
+            5,
+            1,
+            41,
+            16,
+            56,
+            22,
+            9
+          ],
+          "triple_m1_m2_a": [
+            6,
+            8,
+            5
+          ],
+          "units_checked": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            14,
+            16,
+            17,
+            18,
+            19,
+            21,
+            22,
+            23,
+            24,
+            27,
+            28,
+            29,
+            31,
+            32,
+            33,
+            34,
+            36,
+            37,
+            38,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49,
+            51,
+            53,
+            54,
+            56,
+            57,
+            58,
+            59,
+            61,
+            62,
+            63,
+            64
+          ]
+        }
+      ],
+      "database_row": 187,
+      "determinant": 65,
+      "goeritz_forms": [
+        {
+          "four_times_spin_value": 4,
+          "matrix": [
+            [
+              4,
+              -2,
+              -1
+            ],
+            [
+              -2,
+              7,
+              -3
+            ],
+            [
+              -1,
+              -3,
+              5
+            ]
+          ],
+          "rank": 3,
+          "selected_orientation": false
+        },
+        {
+          "four_times_spin_value": -4,
+          "matrix": [
+            [
+              2,
+              -1,
+              0,
+              0,
+              0,
+              0,
+              -1
+            ],
+            [
+              -1,
+              3,
+              -1,
+              0,
+              0,
+              -1,
+              0
+            ],
+            [
+              0,
+              -1,
+              2,
+              -1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              -1,
+              2,
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              -1,
+              3,
+              -1,
+              0
+            ],
+            [
+              0,
+              -1,
+              0,
+              0,
+              -1,
+              3,
+              -1
+            ],
+            [
+              -1,
+              0,
+              0,
+              0,
+              0,
+              -1,
+              3
+            ]
+          ],
+          "rank": 7,
+          "selected_orientation": true
+        }
+      ],
+      "knot": "10_100",
+      "oriented_goeritz_correction_terms_cyclic_order": {
+        "generator": [
+          5,
+          1,
+          41,
+          16,
+          56,
+          22,
+          9
+        ],
+        "values": [
+          "-1",
+          "-31/65",
+          "-59/65",
+          "-19/65",
+          "-41/65",
+          "1/13",
+          "-11/65",
+          "-89/65",
+          "31/65",
+          "-41/65",
+          "-9/13",
+          "19/65",
+          "21/65",
+          "-3/5",
+          "-31/65",
+          "9/13",
+          "-71/65",
+          "11/65",
+          "31/65",
+          "-11/65",
+          "3/13",
+          "-21/65",
+          "11/65",
+          "-19/65",
+          "19/65",
+          "-1/13",
+          "-7/5",
+          "21/65",
+          "-59/65",
+          "-71/65",
+          "-3/13",
+          "-21/65",
+          "-89/65",
+          "-89/65",
+          "-21/65",
+          "-3/13",
+          "-71/65",
+          "-59/65",
+          "21/65",
+          "-7/5",
+          "-1/13",
+          "19/65",
+          "-19/65",
+          "11/65",
+          "-21/65",
+          "3/13",
+          "-11/65",
+          "31/65",
+          "11/65",
+          "-71/65",
+          "9/13",
+          "-31/65",
+          "-3/5",
+          "21/65",
+          "19/65",
+          "-9/13",
+          "-41/65",
+          "31/65",
+          "-89/65",
+          "-11/65",
+          "1/13",
+          "-41/65",
+          "-19/65",
+          "-59/65",
+          "-31/65"
+        ]
+      },
+      "owens_obstructs_u_equals_2": false,
+      "signature_after_reflection_if_needed": 4,
+      "workbook_signature": 4
+    }
+  ],
+  "method": "full Owens correction-term comparison",
+  "source_workbook": "knotinfo_data_complete(11).xls"
+}

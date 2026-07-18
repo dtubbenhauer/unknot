@@ -1,0 +1,8019 @@
+{
+  "affine_maps": [
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 0,
+        "image_coordinate": 0,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 1,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 0,
+      "offset_coordinate": 0,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "742/81",
+        "i": 0,
+        "image_class_id": 4,
+        "image_coordinate": 1,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 2,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 4,
+      "offset_coordinate": 1,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "874/81",
+        "i": 0,
+        "image_class_id": 8,
+        "image_coordinate": 2,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 3,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 8,
+      "offset_coordinate": 2,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 3,
+        "image_coordinate": 3,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 4,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 3,
+      "offset_coordinate": 3,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "736/81",
+        "i": 0,
+        "image_class_id": 11,
+        "image_coordinate": 4,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 5,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 11,
+      "offset_coordinate": 4,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "790/81",
+        "i": 0,
+        "image_class_id": 14,
+        "image_coordinate": 5,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 6,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 14,
+      "offset_coordinate": 5,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "872/81",
+        "i": 0,
+        "image_class_id": 7,
+        "image_coordinate": 6,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 7,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 7,
+      "offset_coordinate": 6,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "820/81",
+        "i": 0,
+        "image_class_id": 17,
+        "image_coordinate": 7,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 8,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 17,
+      "offset_coordinate": 7,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "796/81",
+        "i": 0,
+        "image_class_id": 20,
+        "image_coordinate": 8,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 9,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 20,
+      "offset_coordinate": 8,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 2,
+        "image_coordinate": 9,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 10,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 2,
+      "offset_coordinate": 9,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "832/81",
+        "i": 0,
+        "image_class_id": 22,
+        "image_coordinate": 10,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 11,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 22,
+      "offset_coordinate": 10,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "730/81",
+        "i": 0,
+        "image_class_id": 24,
+        "image_coordinate": 11,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 12,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 24,
+      "offset_coordinate": 11,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 10,
+        "image_coordinate": 12,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 13,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 10,
+      "offset_coordinate": 12,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "772/81",
+        "i": 0,
+        "image_class_id": 26,
+        "image_coordinate": 13,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 14,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 26,
+      "offset_coordinate": 13,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "754/81",
+        "i": 0,
+        "image_class_id": 28,
+        "image_coordinate": 14,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 15,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 28,
+      "offset_coordinate": 14,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 13,
+        "image_coordinate": 15,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 16,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 13,
+      "offset_coordinate": 15,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "802/81",
+        "i": 0,
+        "image_class_id": 30,
+        "image_coordinate": 16,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 17,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 30,
+      "offset_coordinate": 16,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "868/81",
+        "i": 0,
+        "image_class_id": 32,
+        "image_coordinate": 17,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 18,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 32,
+      "offset_coordinate": 17,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 6,
+        "image_coordinate": 18,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 19,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 6,
+      "offset_coordinate": 18,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "760/81",
+        "i": 0,
+        "image_class_id": 34,
+        "image_coordinate": 19,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 20,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 34,
+      "offset_coordinate": 19,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "748/81",
+        "i": 0,
+        "image_class_id": 36,
+        "image_coordinate": 20,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 21,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 36,
+      "offset_coordinate": 20,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 16,
+        "image_coordinate": 21,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 22,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 16,
+      "offset_coordinate": 21,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "808/81",
+        "i": 0,
+        "image_class_id": 38,
+        "image_coordinate": 22,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 23,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 38,
+      "offset_coordinate": 22,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "718/81",
+        "i": 0,
+        "image_class_id": 40,
+        "image_coordinate": 23,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 24,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 40,
+      "offset_coordinate": 23,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 19,
+        "image_coordinate": 24,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 25,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 19,
+      "offset_coordinate": 24,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "784/81",
+        "i": 0,
+        "image_class_id": 42,
+        "image_coordinate": 25,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 26,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 42,
+      "offset_coordinate": 25,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "778/81",
+        "i": 0,
+        "image_class_id": 44,
+        "image_coordinate": 26,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 27,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 44,
+      "offset_coordinate": 26,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 1,
+        "image_coordinate": 27,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 28,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 1,
+      "offset_coordinate": 27,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "850/81",
+        "i": 0,
+        "image_class_id": 45,
+        "image_coordinate": 28,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 29,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 45,
+      "offset_coordinate": 28,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "766/81",
+        "i": 0,
+        "image_class_id": 46,
+        "image_coordinate": 29,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 30,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 46,
+      "offset_coordinate": 29,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 21,
+        "image_coordinate": 30,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 31,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 21,
+      "offset_coordinate": 30,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "844/81",
+        "i": 0,
+        "image_class_id": 47,
+        "image_coordinate": 31,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 32,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 47,
+      "offset_coordinate": 31,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "844/81",
+        "i": 0,
+        "image_class_id": 48,
+        "image_coordinate": 32,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 33,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 48,
+      "offset_coordinate": 32,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 23,
+        "image_coordinate": 33,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 34,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 23,
+      "offset_coordinate": 33,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "766/81",
+        "i": 0,
+        "image_class_id": 49,
+        "image_coordinate": 34,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 35,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 49,
+      "offset_coordinate": 34,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "850/81",
+        "i": 0,
+        "image_class_id": 50,
+        "image_coordinate": 35,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 36,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 50,
+      "offset_coordinate": 35,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 9,
+        "image_coordinate": 36,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 37,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 9,
+      "offset_coordinate": 36,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "778/81",
+        "i": 0,
+        "image_class_id": 51,
+        "image_coordinate": 37,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 38,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 51,
+      "offset_coordinate": 37,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "784/81",
+        "i": 0,
+        "image_class_id": 52,
+        "image_coordinate": 38,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 39,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 52,
+      "offset_coordinate": 38,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 25,
+        "image_coordinate": 39,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 40,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 25,
+      "offset_coordinate": 39,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "718/81",
+        "i": 0,
+        "image_class_id": 53,
+        "image_coordinate": 40,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 41,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 53,
+      "offset_coordinate": 40,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "808/81",
+        "i": 0,
+        "image_class_id": 54,
+        "image_coordinate": 41,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 42,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 54,
+      "offset_coordinate": 41,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 27,
+        "image_coordinate": 42,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 43,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 27,
+      "offset_coordinate": 42,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "748/81",
+        "i": 0,
+        "image_class_id": 55,
+        "image_coordinate": 43,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 44,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 55,
+      "offset_coordinate": 43,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "760/81",
+        "i": 0,
+        "image_class_id": 56,
+        "image_coordinate": 44,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 45,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 56,
+      "offset_coordinate": 44,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 12,
+        "image_coordinate": 45,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 46,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 12,
+      "offset_coordinate": 45,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "868/81",
+        "i": 0,
+        "image_class_id": 57,
+        "image_coordinate": 46,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 47,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 57,
+      "offset_coordinate": 46,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "802/81",
+        "i": 0,
+        "image_class_id": 58,
+        "image_coordinate": 47,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 48,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 58,
+      "offset_coordinate": 47,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 29,
+        "image_coordinate": 48,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 49,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 29,
+      "offset_coordinate": 48,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "754/81",
+        "i": 0,
+        "image_class_id": 59,
+        "image_coordinate": 49,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 50,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 59,
+      "offset_coordinate": 49,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "772/81",
+        "i": 0,
+        "image_class_id": 60,
+        "image_coordinate": 50,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 51,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 60,
+      "offset_coordinate": 50,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 31,
+        "image_coordinate": 51,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 52,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 31,
+      "offset_coordinate": 51,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "730/81",
+        "i": 0,
+        "image_class_id": 61,
+        "image_coordinate": 52,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 53,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 61,
+      "offset_coordinate": 52,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "832/81",
+        "i": 0,
+        "image_class_id": 62,
+        "image_coordinate": 53,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 54,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 62,
+      "offset_coordinate": 53,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 5,
+        "image_coordinate": 54,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 55,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 5,
+      "offset_coordinate": 54,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "796/81",
+        "i": 0,
+        "image_class_id": 63,
+        "image_coordinate": 55,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 56,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 63,
+      "offset_coordinate": 55,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "820/81",
+        "i": 0,
+        "image_class_id": 64,
+        "image_coordinate": 56,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 57,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 64,
+      "offset_coordinate": 56,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "872/81",
+        "i": 0,
+        "image_class_id": 33,
+        "image_coordinate": 57,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 58,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 33,
+      "offset_coordinate": 57,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "790/81",
+        "i": 0,
+        "image_class_id": 65,
+        "image_coordinate": 58,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 59,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 65,
+      "offset_coordinate": 58,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "736/81",
+        "i": 0,
+        "image_class_id": 66,
+        "image_coordinate": 59,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 60,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 66,
+      "offset_coordinate": 59,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 35,
+        "image_coordinate": 60,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 61,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 35,
+      "offset_coordinate": 60,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "874/81",
+        "i": 0,
+        "image_class_id": 67,
+        "image_coordinate": 61,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 62,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 67,
+      "offset_coordinate": 61,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "742/81",
+        "i": 0,
+        "image_class_id": 68,
+        "image_coordinate": 62,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 63,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 68,
+      "offset_coordinate": 62,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 15,
+        "image_coordinate": 63,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 64,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 15,
+      "offset_coordinate": 63,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "724/81",
+        "i": 0,
+        "image_class_id": 69,
+        "image_coordinate": 64,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 65,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 69,
+      "offset_coordinate": 64,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "838/81",
+        "i": 0,
+        "image_class_id": 70,
+        "image_coordinate": 65,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 66,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 70,
+      "offset_coordinate": 65,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 37,
+        "image_coordinate": 66,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 67,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 37,
+      "offset_coordinate": 66,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "826/81",
+        "i": 0,
+        "image_class_id": 71,
+        "image_coordinate": 67,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 68,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 71,
+      "offset_coordinate": 67,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "862/81",
+        "i": 0,
+        "image_class_id": 72,
+        "image_coordinate": 68,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 69,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 72,
+      "offset_coordinate": 68,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 39,
+        "image_coordinate": 69,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 70,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 39,
+      "offset_coordinate": 69,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "694/81",
+        "i": 0,
+        "image_class_id": 73,
+        "image_coordinate": 70,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 71,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 73,
+      "offset_coordinate": 70,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "814/81",
+        "i": 0,
+        "image_class_id": 74,
+        "image_coordinate": 71,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 72,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 74,
+      "offset_coordinate": 71,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 18,
+        "image_coordinate": 72,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 73,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 18,
+      "offset_coordinate": 72,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "814/81",
+        "i": 0,
+        "image_class_id": 75,
+        "image_coordinate": 73,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 74,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 75,
+      "offset_coordinate": 73,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "694/81",
+        "i": 0,
+        "image_class_id": 76,
+        "image_coordinate": 74,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 75,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 76,
+      "offset_coordinate": 74,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 41,
+        "image_coordinate": 75,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 76,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 41,
+      "offset_coordinate": 75,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "862/81",
+        "i": 0,
+        "image_class_id": 77,
+        "image_coordinate": 76,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 77,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 77,
+      "offset_coordinate": 76,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "826/81",
+        "i": 0,
+        "image_class_id": 78,
+        "image_coordinate": 77,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 78,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 78,
+      "offset_coordinate": 77,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 43,
+        "image_coordinate": 78,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 79,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 43,
+      "offset_coordinate": 78,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "838/81",
+        "i": 0,
+        "image_class_id": 79,
+        "image_coordinate": 79,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 80,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 79,
+      "offset_coordinate": 79,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "724/81",
+        "i": 0,
+        "image_class_id": 80,
+        "image_coordinate": 80,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 81,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 80,
+      "offset_coordinate": 80,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 0,
+        "image_coordinate": 0,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 82,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 0,
+      "offset_coordinate": 0,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "742/81",
+        "i": 0,
+        "image_class_id": 4,
+        "image_coordinate": 1,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 83,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 4,
+      "offset_coordinate": 1,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "874/81",
+        "i": 0,
+        "image_class_id": 8,
+        "image_coordinate": 2,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 84,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 8,
+      "offset_coordinate": 2,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 3,
+        "image_coordinate": 3,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 85,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 3,
+      "offset_coordinate": 3,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "736/81",
+        "i": 0,
+        "image_class_id": 11,
+        "image_coordinate": 4,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 86,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 11,
+      "offset_coordinate": 4,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "790/81",
+        "i": 0,
+        "image_class_id": 14,
+        "image_coordinate": 5,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 87,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 14,
+      "offset_coordinate": 5,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "872/81",
+        "i": 0,
+        "image_class_id": 7,
+        "image_coordinate": 6,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 88,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 7,
+      "offset_coordinate": 6,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "820/81",
+        "i": 0,
+        "image_class_id": 17,
+        "image_coordinate": 7,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 89,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 17,
+      "offset_coordinate": 7,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "796/81",
+        "i": 0,
+        "image_class_id": 20,
+        "image_coordinate": 8,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 90,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 20,
+      "offset_coordinate": 8,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 2,
+        "image_coordinate": 9,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 91,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 2,
+      "offset_coordinate": 9,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "832/81",
+        "i": 0,
+        "image_class_id": 22,
+        "image_coordinate": 10,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 92,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 22,
+      "offset_coordinate": 10,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "730/81",
+        "i": 0,
+        "image_class_id": 24,
+        "image_coordinate": 11,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 93,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 24,
+      "offset_coordinate": 11,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 10,
+        "image_coordinate": 12,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 94,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 10,
+      "offset_coordinate": 12,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "772/81",
+        "i": 0,
+        "image_class_id": 26,
+        "image_coordinate": 13,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 95,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 26,
+      "offset_coordinate": 13,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "754/81",
+        "i": 0,
+        "image_class_id": 28,
+        "image_coordinate": 14,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 96,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 28,
+      "offset_coordinate": 14,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 13,
+        "image_coordinate": 15,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 97,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 13,
+      "offset_coordinate": 15,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "802/81",
+        "i": 0,
+        "image_class_id": 30,
+        "image_coordinate": 16,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 98,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 30,
+      "offset_coordinate": 16,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "868/81",
+        "i": 0,
+        "image_class_id": 32,
+        "image_coordinate": 17,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 99,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 32,
+      "offset_coordinate": 17,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 6,
+        "image_coordinate": 18,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 100,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 6,
+      "offset_coordinate": 18,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "760/81",
+        "i": 0,
+        "image_class_id": 34,
+        "image_coordinate": 19,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 101,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 34,
+      "offset_coordinate": 19,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "748/81",
+        "i": 0,
+        "image_class_id": 36,
+        "image_coordinate": 20,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 102,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 36,
+      "offset_coordinate": 20,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 16,
+        "image_coordinate": 21,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 103,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 16,
+      "offset_coordinate": 21,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "808/81",
+        "i": 0,
+        "image_class_id": 38,
+        "image_coordinate": 22,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 104,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 38,
+      "offset_coordinate": 22,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "718/81",
+        "i": 0,
+        "image_class_id": 40,
+        "image_coordinate": 23,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 105,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 40,
+      "offset_coordinate": 23,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 19,
+        "image_coordinate": 24,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 106,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 19,
+      "offset_coordinate": 24,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "784/81",
+        "i": 0,
+        "image_class_id": 42,
+        "image_coordinate": 25,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 107,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 42,
+      "offset_coordinate": 25,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "778/81",
+        "i": 0,
+        "image_class_id": 44,
+        "image_coordinate": 26,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 108,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 44,
+      "offset_coordinate": 26,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 1,
+        "image_coordinate": 27,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 109,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 1,
+      "offset_coordinate": 27,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "850/81",
+        "i": 0,
+        "image_class_id": 45,
+        "image_coordinate": 28,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 110,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 45,
+      "offset_coordinate": 28,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "766/81",
+        "i": 0,
+        "image_class_id": 46,
+        "image_coordinate": 29,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 111,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 46,
+      "offset_coordinate": 29,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 21,
+        "image_coordinate": 30,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 112,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 21,
+      "offset_coordinate": 30,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "844/81",
+        "i": 0,
+        "image_class_id": 47,
+        "image_coordinate": 31,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 113,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 47,
+      "offset_coordinate": 31,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "844/81",
+        "i": 0,
+        "image_class_id": 48,
+        "image_coordinate": 32,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 114,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 48,
+      "offset_coordinate": 32,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 23,
+        "image_coordinate": 33,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 115,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 23,
+      "offset_coordinate": 33,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "766/81",
+        "i": 0,
+        "image_class_id": 49,
+        "image_coordinate": 34,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 116,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 49,
+      "offset_coordinate": 34,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "850/81",
+        "i": 0,
+        "image_class_id": 50,
+        "image_coordinate": 35,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 117,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 50,
+      "offset_coordinate": 35,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 9,
+        "image_coordinate": 36,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 118,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 9,
+      "offset_coordinate": 36,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "778/81",
+        "i": 0,
+        "image_class_id": 51,
+        "image_coordinate": 37,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 119,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 51,
+      "offset_coordinate": 37,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "784/81",
+        "i": 0,
+        "image_class_id": 52,
+        "image_coordinate": 38,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 120,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 52,
+      "offset_coordinate": 38,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 25,
+        "image_coordinate": 39,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 121,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 25,
+      "offset_coordinate": 39,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "718/81",
+        "i": 0,
+        "image_class_id": 53,
+        "image_coordinate": 40,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 122,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 53,
+      "offset_coordinate": 40,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "808/81",
+        "i": 0,
+        "image_class_id": 54,
+        "image_coordinate": 41,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 123,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 54,
+      "offset_coordinate": 41,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 27,
+        "image_coordinate": 42,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 124,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 27,
+      "offset_coordinate": 42,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "748/81",
+        "i": 0,
+        "image_class_id": 55,
+        "image_coordinate": 43,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 125,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 55,
+      "offset_coordinate": 43,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "760/81",
+        "i": 0,
+        "image_class_id": 56,
+        "image_coordinate": 44,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 126,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 56,
+      "offset_coordinate": 44,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 12,
+        "image_coordinate": 45,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 127,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 12,
+      "offset_coordinate": 45,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "868/81",
+        "i": 0,
+        "image_class_id": 57,
+        "image_coordinate": 46,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 128,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 57,
+      "offset_coordinate": 46,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "802/81",
+        "i": 0,
+        "image_class_id": 58,
+        "image_coordinate": 47,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 129,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 58,
+      "offset_coordinate": 47,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 29,
+        "image_coordinate": 48,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 130,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 29,
+      "offset_coordinate": 48,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "754/81",
+        "i": 0,
+        "image_class_id": 59,
+        "image_coordinate": 49,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 131,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 59,
+      "offset_coordinate": 49,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "772/81",
+        "i": 0,
+        "image_class_id": 60,
+        "image_coordinate": 50,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 132,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 60,
+      "offset_coordinate": 50,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 31,
+        "image_coordinate": 51,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 133,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 31,
+      "offset_coordinate": 51,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "730/81",
+        "i": 0,
+        "image_class_id": 61,
+        "image_coordinate": 52,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 134,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 61,
+      "offset_coordinate": 52,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "832/81",
+        "i": 0,
+        "image_class_id": 62,
+        "image_coordinate": 53,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 135,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 62,
+      "offset_coordinate": 53,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 5,
+        "image_coordinate": 54,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 136,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 5,
+      "offset_coordinate": 54,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "796/81",
+        "i": 0,
+        "image_class_id": 63,
+        "image_coordinate": 55,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 137,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 63,
+      "offset_coordinate": 55,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "820/81",
+        "i": 0,
+        "image_class_id": 64,
+        "image_coordinate": 56,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 138,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 64,
+      "offset_coordinate": 56,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "872/81",
+        "i": 0,
+        "image_class_id": 33,
+        "image_coordinate": 57,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 139,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 33,
+      "offset_coordinate": 57,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "790/81",
+        "i": 0,
+        "image_class_id": 65,
+        "image_coordinate": 58,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 140,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 65,
+      "offset_coordinate": 58,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "736/81",
+        "i": 0,
+        "image_class_id": 66,
+        "image_coordinate": 59,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 141,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 66,
+      "offset_coordinate": 59,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "710/81",
+        "i": 0,
+        "image_class_id": 35,
+        "image_coordinate": 60,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 142,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 35,
+      "offset_coordinate": 60,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "874/81",
+        "i": 0,
+        "image_class_id": 67,
+        "image_coordinate": 61,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 143,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 67,
+      "offset_coordinate": 61,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "742/81",
+        "i": 0,
+        "image_class_id": 68,
+        "image_coordinate": 62,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 144,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 68,
+      "offset_coordinate": 62,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 15,
+        "image_coordinate": 63,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 145,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 15,
+      "offset_coordinate": 63,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "724/81",
+        "i": 0,
+        "image_class_id": 69,
+        "image_coordinate": 64,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 146,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 69,
+      "offset_coordinate": 64,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "838/81",
+        "i": 0,
+        "image_class_id": 70,
+        "image_coordinate": 65,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 147,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 70,
+      "offset_coordinate": 65,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 37,
+        "image_coordinate": 66,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 148,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 37,
+      "offset_coordinate": 66,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "826/81",
+        "i": 0,
+        "image_class_id": 71,
+        "image_coordinate": 67,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 149,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 71,
+      "offset_coordinate": 67,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "862/81",
+        "i": 0,
+        "image_class_id": 72,
+        "image_coordinate": 68,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 150,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 72,
+      "offset_coordinate": 68,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 39,
+        "image_coordinate": 69,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 151,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 39,
+      "offset_coordinate": 69,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "694/81",
+        "i": 0,
+        "image_class_id": 73,
+        "image_coordinate": 70,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 152,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 73,
+      "offset_coordinate": 70,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "814/81",
+        "i": 0,
+        "image_class_id": 74,
+        "image_coordinate": 71,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 153,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 74,
+      "offset_coordinate": 71,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 18,
+        "image_coordinate": 72,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 154,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 18,
+      "offset_coordinate": 72,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "814/81",
+        "i": 0,
+        "image_class_id": 75,
+        "image_coordinate": 73,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 155,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 75,
+      "offset_coordinate": 73,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "694/81",
+        "i": 0,
+        "image_class_id": 76,
+        "image_coordinate": 74,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 156,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 76,
+      "offset_coordinate": 74,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "764/81",
+        "i": 0,
+        "image_class_id": 41,
+        "image_coordinate": 75,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 157,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 41,
+      "offset_coordinate": 75,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "862/81",
+        "i": 0,
+        "image_class_id": 77,
+        "image_coordinate": 76,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 158,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 77,
+      "offset_coordinate": 76,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "826/81",
+        "i": 0,
+        "image_class_id": 78,
+        "image_coordinate": 77,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 159,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 78,
+      "offset_coordinate": 77,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "818/81",
+        "i": 0,
+        "image_class_id": 43,
+        "image_coordinate": 78,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 160,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 43,
+      "offset_coordinate": 78,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "838/81",
+        "i": 0,
+        "image_class_id": 79,
+        "image_coordinate": 79,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 161,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 79,
+      "offset_coordinate": 79,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "724/81",
+        "i": 0,
+        "image_class_id": 80,
+        "image_coordinate": 80,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 162,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 80,
+      "offset_coordinate": 80,
+      "orientation": "graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 0,
+        "image_coordinate": 0,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 163,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 0,
+      "offset_coordinate": 0,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "286/27",
+        "i": 0,
+        "image_class_id": 4,
+        "image_coordinate": 1,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 164,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 4,
+      "offset_coordinate": 1,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "242/27",
+        "i": 0,
+        "image_class_id": 8,
+        "image_coordinate": 2,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 165,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 8,
+      "offset_coordinate": 2,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 3,
+        "image_coordinate": 3,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 166,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 3,
+      "offset_coordinate": 3,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "32/3",
+        "i": 0,
+        "image_class_id": 11,
+        "image_coordinate": 4,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 167,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 11,
+      "offset_coordinate": 4,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 1,
+        "image_class_id": 21,
+        "image_coordinate": 30,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 168,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 14,
+      "offset_coordinate": 5,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "728/81",
+        "i": 0,
+        "image_class_id": 7,
+        "image_coordinate": 6,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 169,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 7,
+      "offset_coordinate": 6,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "260/27",
+        "i": 0,
+        "image_class_id": 17,
+        "image_coordinate": 7,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 170,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 17,
+      "offset_coordinate": 7,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "268/27",
+        "i": 0,
+        "image_class_id": 20,
+        "image_coordinate": 8,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 171,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 20,
+      "offset_coordinate": 8,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 2,
+        "image_coordinate": 9,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 172,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 2,
+      "offset_coordinate": 9,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "256/27",
+        "i": 0,
+        "image_class_id": 22,
+        "image_coordinate": 10,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 173,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 22,
+      "offset_coordinate": 10,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "290/27",
+        "i": 0,
+        "image_class_id": 24,
+        "image_coordinate": 11,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 174,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 24,
+      "offset_coordinate": 11,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 10,
+        "image_coordinate": 12,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 175,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 10,
+      "offset_coordinate": 12,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "92/9",
+        "i": 0,
+        "image_class_id": 26,
+        "image_coordinate": 13,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 176,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 26,
+      "offset_coordinate": 13,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "94/9",
+        "i": 0,
+        "image_class_id": 28,
+        "image_coordinate": 14,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 177,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 28,
+      "offset_coordinate": 14,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 13,
+        "image_coordinate": 15,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 178,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 13,
+      "offset_coordinate": 15,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "266/27",
+        "i": 0,
+        "image_class_id": 30,
+        "image_coordinate": 16,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 179,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 30,
+      "offset_coordinate": 16,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "244/27",
+        "i": 0,
+        "image_class_id": 32,
+        "image_coordinate": 17,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 180,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 32,
+      "offset_coordinate": 17,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 6,
+        "image_coordinate": 18,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 181,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 6,
+      "offset_coordinate": 18,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "280/27",
+        "i": 0,
+        "image_class_id": 34,
+        "image_coordinate": 19,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 182,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 34,
+      "offset_coordinate": 19,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "284/27",
+        "i": 0,
+        "image_class_id": 36,
+        "image_coordinate": 20,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 183,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 36,
+      "offset_coordinate": 20,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 16,
+        "image_coordinate": 21,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 184,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 16,
+      "offset_coordinate": 21,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "88/9",
+        "i": 0,
+        "image_class_id": 38,
+        "image_coordinate": 22,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 185,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 38,
+      "offset_coordinate": 22,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "98/9",
+        "i": 0,
+        "image_class_id": 40,
+        "image_coordinate": 23,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 186,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 40,
+      "offset_coordinate": 23,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 19,
+        "image_coordinate": 24,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 187,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 19,
+      "offset_coordinate": 24,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "272/27",
+        "i": 0,
+        "image_class_id": 42,
+        "image_coordinate": 25,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 188,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 42,
+      "offset_coordinate": 25,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "274/27",
+        "i": 0,
+        "image_class_id": 44,
+        "image_coordinate": 26,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 189,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 44,
+      "offset_coordinate": 26,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 1,
+        "image_coordinate": 27,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 190,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 1,
+      "offset_coordinate": 27,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "250/27",
+        "i": 0,
+        "image_class_id": 45,
+        "image_coordinate": 28,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 191,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 45,
+      "offset_coordinate": 28,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "278/27",
+        "i": 0,
+        "image_class_id": 46,
+        "image_coordinate": 29,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 192,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 46,
+      "offset_coordinate": 29,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 21,
+        "image_coordinate": 30,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 193,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 21,
+      "offset_coordinate": 30,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "28/3",
+        "i": 0,
+        "image_class_id": 47,
+        "image_coordinate": 31,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 194,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 47,
+      "offset_coordinate": 31,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "28/3",
+        "i": 0,
+        "image_class_id": 48,
+        "image_coordinate": 32,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 195,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 48,
+      "offset_coordinate": 32,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 23,
+        "image_coordinate": 33,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 196,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 23,
+      "offset_coordinate": 33,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "278/27",
+        "i": 0,
+        "image_class_id": 49,
+        "image_coordinate": 34,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 197,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 49,
+      "offset_coordinate": 34,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "250/27",
+        "i": 0,
+        "image_class_id": 50,
+        "image_coordinate": 35,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 198,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 50,
+      "offset_coordinate": 35,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 9,
+        "image_coordinate": 36,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 199,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 9,
+      "offset_coordinate": 36,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "274/27",
+        "i": 0,
+        "image_class_id": 51,
+        "image_coordinate": 37,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 200,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 51,
+      "offset_coordinate": 37,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "272/27",
+        "i": 0,
+        "image_class_id": 52,
+        "image_coordinate": 38,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 201,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 52,
+      "offset_coordinate": 38,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 25,
+        "image_coordinate": 39,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 202,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 25,
+      "offset_coordinate": 39,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "98/9",
+        "i": 0,
+        "image_class_id": 53,
+        "image_coordinate": 40,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 203,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 53,
+      "offset_coordinate": 40,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "88/9",
+        "i": 0,
+        "image_class_id": 54,
+        "image_coordinate": 41,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 204,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 54,
+      "offset_coordinate": 41,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 27,
+        "image_coordinate": 42,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 205,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 27,
+      "offset_coordinate": 42,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "284/27",
+        "i": 0,
+        "image_class_id": 55,
+        "image_coordinate": 43,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 206,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 55,
+      "offset_coordinate": 43,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "280/27",
+        "i": 0,
+        "image_class_id": 56,
+        "image_coordinate": 44,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 207,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 56,
+      "offset_coordinate": 44,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 12,
+        "image_coordinate": 45,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 208,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 12,
+      "offset_coordinate": 45,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "244/27",
+        "i": 0,
+        "image_class_id": 57,
+        "image_coordinate": 46,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 209,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 57,
+      "offset_coordinate": 46,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "266/27",
+        "i": 0,
+        "image_class_id": 58,
+        "image_coordinate": 47,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 210,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 58,
+      "offset_coordinate": 47,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 29,
+        "image_coordinate": 48,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 211,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 29,
+      "offset_coordinate": 48,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "94/9",
+        "i": 0,
+        "image_class_id": 59,
+        "image_coordinate": 49,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 212,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 59,
+      "offset_coordinate": 49,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "92/9",
+        "i": 0,
+        "image_class_id": 60,
+        "image_coordinate": 50,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 213,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 60,
+      "offset_coordinate": 50,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 31,
+        "image_coordinate": 51,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 214,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 31,
+      "offset_coordinate": 51,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "290/27",
+        "i": 0,
+        "image_class_id": 61,
+        "image_coordinate": 52,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 215,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 61,
+      "offset_coordinate": 52,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "256/27",
+        "i": 0,
+        "image_class_id": 62,
+        "image_coordinate": 53,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 216,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 62,
+      "offset_coordinate": 53,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 5,
+        "image_coordinate": 54,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 217,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 5,
+      "offset_coordinate": 54,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "268/27",
+        "i": 0,
+        "image_class_id": 63,
+        "image_coordinate": 55,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 218,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 63,
+      "offset_coordinate": 55,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "260/27",
+        "i": 0,
+        "image_class_id": 64,
+        "image_coordinate": 56,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 219,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 64,
+      "offset_coordinate": 56,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "728/81",
+        "i": 0,
+        "image_class_id": 33,
+        "image_coordinate": 57,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 220,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 33,
+      "offset_coordinate": 57,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "242/27",
+        "i": 1,
+        "image_class_id": 8,
+        "image_coordinate": 2,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 221,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 65,
+      "offset_coordinate": 58,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "32/3",
+        "i": 0,
+        "image_class_id": 66,
+        "image_coordinate": 59,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 222,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 66,
+      "offset_coordinate": 59,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 35,
+        "image_coordinate": 60,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 223,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 35,
+      "offset_coordinate": 60,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "242/27",
+        "i": 0,
+        "image_class_id": 67,
+        "image_coordinate": 61,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 224,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 67,
+      "offset_coordinate": 61,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "286/27",
+        "i": 0,
+        "image_class_id": 68,
+        "image_coordinate": 62,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 225,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 68,
+      "offset_coordinate": 62,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 15,
+        "image_coordinate": 63,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 226,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 15,
+      "offset_coordinate": 63,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "292/27",
+        "i": 0,
+        "image_class_id": 69,
+        "image_coordinate": 64,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 227,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 69,
+      "offset_coordinate": 64,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "254/27",
+        "i": 0,
+        "image_class_id": 70,
+        "image_coordinate": 65,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 228,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 70,
+      "offset_coordinate": 65,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 37,
+        "image_coordinate": 66,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 229,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 37,
+      "offset_coordinate": 66,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "86/9",
+        "i": 0,
+        "image_class_id": 71,
+        "image_coordinate": 67,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 230,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 71,
+      "offset_coordinate": 67,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "82/9",
+        "i": 0,
+        "image_class_id": 72,
+        "image_coordinate": 68,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 231,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 72,
+      "offset_coordinate": 68,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 39,
+        "image_coordinate": 69,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 232,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 39,
+      "offset_coordinate": 69,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "302/27",
+        "i": 0,
+        "image_class_id": 73,
+        "image_coordinate": 70,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 233,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 73,
+      "offset_coordinate": 70,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "262/27",
+        "i": 0,
+        "image_class_id": 74,
+        "image_coordinate": 71,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 234,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 74,
+      "offset_coordinate": 71,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 18,
+        "image_coordinate": 72,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 235,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 18,
+      "offset_coordinate": 72,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "262/27",
+        "i": 0,
+        "image_class_id": 75,
+        "image_coordinate": 73,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 236,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 75,
+      "offset_coordinate": 73,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "302/27",
+        "i": 0,
+        "image_class_id": 76,
+        "image_coordinate": 74,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 237,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 76,
+      "offset_coordinate": 74,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 41,
+        "image_coordinate": 75,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 238,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 41,
+      "offset_coordinate": 75,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "82/9",
+        "i": 0,
+        "image_class_id": 77,
+        "image_coordinate": 76,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 239,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 77,
+      "offset_coordinate": 76,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "86/9",
+        "i": 0,
+        "image_class_id": 78,
+        "image_coordinate": 77,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 240,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 78,
+      "offset_coordinate": 77,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 43,
+        "image_coordinate": 78,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 241,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 43,
+      "offset_coordinate": 78,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "254/27",
+        "i": 0,
+        "image_class_id": 79,
+        "image_coordinate": 79,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 242,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 79,
+      "offset_coordinate": 79,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "292/27",
+        "i": 0,
+        "image_class_id": 80,
+        "image_coordinate": 80,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 42,
+      "generator_coordinate": 25,
+      "map_id": 243,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 80,
+      "offset_coordinate": 80,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 0,
+        "image_coordinate": 0,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 244,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 0,
+      "offset_coordinate": 0,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "286/27",
+        "i": 0,
+        "image_class_id": 4,
+        "image_coordinate": 1,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 245,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 4,
+      "offset_coordinate": 1,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "242/27",
+        "i": 0,
+        "image_class_id": 8,
+        "image_coordinate": 2,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 246,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 8,
+      "offset_coordinate": 2,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 3,
+        "image_coordinate": 3,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 247,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 3,
+      "offset_coordinate": 3,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "32/3",
+        "i": 0,
+        "image_class_id": 11,
+        "image_coordinate": 4,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 248,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 11,
+      "offset_coordinate": 4,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "242/27",
+        "i": 1,
+        "image_class_id": 67,
+        "image_coordinate": 61,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 249,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 14,
+      "offset_coordinate": 5,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "728/81",
+        "i": 0,
+        "image_class_id": 7,
+        "image_coordinate": 6,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 250,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 7,
+      "offset_coordinate": 6,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "260/27",
+        "i": 0,
+        "image_class_id": 17,
+        "image_coordinate": 7,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 251,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 17,
+      "offset_coordinate": 7,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "268/27",
+        "i": 0,
+        "image_class_id": 20,
+        "image_coordinate": 8,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 252,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 20,
+      "offset_coordinate": 8,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 2,
+        "image_coordinate": 9,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 253,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 2,
+      "offset_coordinate": 9,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "256/27",
+        "i": 0,
+        "image_class_id": 22,
+        "image_coordinate": 10,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 254,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 22,
+      "offset_coordinate": 10,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "290/27",
+        "i": 0,
+        "image_class_id": 24,
+        "image_coordinate": 11,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 255,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 24,
+      "offset_coordinate": 11,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 10,
+        "image_coordinate": 12,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 256,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 10,
+      "offset_coordinate": 12,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "92/9",
+        "i": 0,
+        "image_class_id": 26,
+        "image_coordinate": 13,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 257,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 26,
+      "offset_coordinate": 13,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "94/9",
+        "i": 0,
+        "image_class_id": 28,
+        "image_coordinate": 14,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 258,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 28,
+      "offset_coordinate": 14,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 13,
+        "image_coordinate": 15,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 259,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 13,
+      "offset_coordinate": 15,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "266/27",
+        "i": 0,
+        "image_class_id": 30,
+        "image_coordinate": 16,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 260,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 30,
+      "offset_coordinate": 16,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "244/27",
+        "i": 0,
+        "image_class_id": 32,
+        "image_coordinate": 17,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 261,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 32,
+      "offset_coordinate": 17,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 6,
+        "image_coordinate": 18,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 262,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 6,
+      "offset_coordinate": 18,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "280/27",
+        "i": 0,
+        "image_class_id": 34,
+        "image_coordinate": 19,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 263,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 34,
+      "offset_coordinate": 19,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "284/27",
+        "i": 0,
+        "image_class_id": 36,
+        "image_coordinate": 20,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 264,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 36,
+      "offset_coordinate": 20,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 16,
+        "image_coordinate": 21,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 265,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 16,
+      "offset_coordinate": 21,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "88/9",
+        "i": 0,
+        "image_class_id": 38,
+        "image_coordinate": 22,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 266,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 38,
+      "offset_coordinate": 22,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "98/9",
+        "i": 0,
+        "image_class_id": 40,
+        "image_coordinate": 23,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 267,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 40,
+      "offset_coordinate": 23,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 19,
+        "image_coordinate": 24,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 268,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 19,
+      "offset_coordinate": 24,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "272/27",
+        "i": 0,
+        "image_class_id": 42,
+        "image_coordinate": 25,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 269,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 42,
+      "offset_coordinate": 25,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "274/27",
+        "i": 0,
+        "image_class_id": 44,
+        "image_coordinate": 26,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 270,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 44,
+      "offset_coordinate": 26,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 1,
+        "image_coordinate": 27,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 271,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 1,
+      "offset_coordinate": 27,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "250/27",
+        "i": 0,
+        "image_class_id": 45,
+        "image_coordinate": 28,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 272,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 45,
+      "offset_coordinate": 28,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "278/27",
+        "i": 0,
+        "image_class_id": 46,
+        "image_coordinate": 29,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 273,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 46,
+      "offset_coordinate": 29,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 21,
+        "image_coordinate": 30,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 274,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 21,
+      "offset_coordinate": 30,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "28/3",
+        "i": 0,
+        "image_class_id": 47,
+        "image_coordinate": 31,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 275,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 47,
+      "offset_coordinate": 31,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "28/3",
+        "i": 0,
+        "image_class_id": 48,
+        "image_coordinate": 32,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 276,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 48,
+      "offset_coordinate": 32,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 23,
+        "image_coordinate": 33,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 277,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 23,
+      "offset_coordinate": 33,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "278/27",
+        "i": 0,
+        "image_class_id": 49,
+        "image_coordinate": 34,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 278,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 49,
+      "offset_coordinate": 34,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "250/27",
+        "i": 0,
+        "image_class_id": 50,
+        "image_coordinate": 35,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 279,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 50,
+      "offset_coordinate": 35,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 9,
+        "image_coordinate": 36,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 280,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 9,
+      "offset_coordinate": 36,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "274/27",
+        "i": 0,
+        "image_class_id": 51,
+        "image_coordinate": 37,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 281,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 51,
+      "offset_coordinate": 37,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "272/27",
+        "i": 0,
+        "image_class_id": 52,
+        "image_coordinate": 38,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 282,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 52,
+      "offset_coordinate": 38,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 25,
+        "image_coordinate": 39,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 283,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 25,
+      "offset_coordinate": 39,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "98/9",
+        "i": 0,
+        "image_class_id": 53,
+        "image_coordinate": 40,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 284,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 53,
+      "offset_coordinate": 40,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "88/9",
+        "i": 0,
+        "image_class_id": 54,
+        "image_coordinate": 41,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 285,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 54,
+      "offset_coordinate": 41,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 27,
+        "image_coordinate": 42,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 286,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 27,
+      "offset_coordinate": 42,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "284/27",
+        "i": 0,
+        "image_class_id": 55,
+        "image_coordinate": 43,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 287,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 55,
+      "offset_coordinate": 43,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "280/27",
+        "i": 0,
+        "image_class_id": 56,
+        "image_coordinate": 44,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 288,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 56,
+      "offset_coordinate": 44,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 12,
+        "image_coordinate": 45,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 289,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 12,
+      "offset_coordinate": 45,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "244/27",
+        "i": 0,
+        "image_class_id": 57,
+        "image_coordinate": 46,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 290,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 57,
+      "offset_coordinate": 46,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "266/27",
+        "i": 0,
+        "image_class_id": 58,
+        "image_coordinate": 47,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 291,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 58,
+      "offset_coordinate": 47,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 29,
+        "image_coordinate": 48,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 292,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 29,
+      "offset_coordinate": 48,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "94/9",
+        "i": 0,
+        "image_class_id": 59,
+        "image_coordinate": 49,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 293,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 59,
+      "offset_coordinate": 49,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "92/9",
+        "i": 0,
+        "image_class_id": 60,
+        "image_coordinate": 50,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 294,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 60,
+      "offset_coordinate": 50,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 31,
+        "image_coordinate": 51,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 295,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 31,
+      "offset_coordinate": 51,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "290/27",
+        "i": 0,
+        "image_class_id": 61,
+        "image_coordinate": 52,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 296,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 61,
+      "offset_coordinate": 52,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "256/27",
+        "i": 0,
+        "image_class_id": 62,
+        "image_coordinate": 53,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 297,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 62,
+      "offset_coordinate": 53,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 5,
+        "image_coordinate": 54,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 298,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 5,
+      "offset_coordinate": 54,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "268/27",
+        "i": 0,
+        "image_class_id": 63,
+        "image_coordinate": 55,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 299,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 63,
+      "offset_coordinate": 55,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "260/27",
+        "i": 0,
+        "image_class_id": 64,
+        "image_coordinate": 56,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 300,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 64,
+      "offset_coordinate": 56,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "728/81",
+        "i": 0,
+        "image_class_id": 33,
+        "image_coordinate": 57,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 301,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 33,
+      "offset_coordinate": 57,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 1,
+        "image_class_id": 23,
+        "image_coordinate": 33,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 302,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 65,
+      "offset_coordinate": 58,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "32/3",
+        "i": 0,
+        "image_class_id": 66,
+        "image_coordinate": 59,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 303,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 66,
+      "offset_coordinate": 59,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "890/81",
+        "i": 0,
+        "image_class_id": 35,
+        "image_coordinate": 60,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 304,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 35,
+      "offset_coordinate": 60,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "242/27",
+        "i": 0,
+        "image_class_id": 67,
+        "image_coordinate": 61,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 305,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 67,
+      "offset_coordinate": 61,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "286/27",
+        "i": 0,
+        "image_class_id": 68,
+        "image_coordinate": 62,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 306,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 68,
+      "offset_coordinate": 62,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 15,
+        "image_coordinate": 63,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 307,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 15,
+      "offset_coordinate": 63,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "292/27",
+        "i": 0,
+        "image_class_id": 69,
+        "image_coordinate": 64,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 308,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 69,
+      "offset_coordinate": 64,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "254/27",
+        "i": 0,
+        "image_class_id": 70,
+        "image_coordinate": 65,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 309,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 70,
+      "offset_coordinate": 65,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 37,
+        "image_coordinate": 66,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 310,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 37,
+      "offset_coordinate": 66,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "86/9",
+        "i": 0,
+        "image_class_id": 71,
+        "image_coordinate": 67,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 311,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 71,
+      "offset_coordinate": 67,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "82/9",
+        "i": 0,
+        "image_class_id": 72,
+        "image_coordinate": 68,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 312,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 72,
+      "offset_coordinate": 68,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 39,
+        "image_coordinate": 69,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 313,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 39,
+      "offset_coordinate": 69,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "302/27",
+        "i": 0,
+        "image_class_id": 73,
+        "image_coordinate": 70,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 314,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 73,
+      "offset_coordinate": 70,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "262/27",
+        "i": 0,
+        "image_class_id": 74,
+        "image_coordinate": 71,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 315,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 74,
+      "offset_coordinate": 71,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "800/81",
+        "i": 0,
+        "image_class_id": 18,
+        "image_coordinate": 72,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 316,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 18,
+      "offset_coordinate": 72,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "262/27",
+        "i": 0,
+        "image_class_id": 75,
+        "image_coordinate": 73,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 317,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 75,
+      "offset_coordinate": 73,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "302/27",
+        "i": 0,
+        "image_class_id": 76,
+        "image_coordinate": 74,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 318,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 76,
+      "offset_coordinate": 74,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "836/81",
+        "i": 0,
+        "image_class_id": 41,
+        "image_coordinate": 75,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 319,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 41,
+      "offset_coordinate": 75,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "82/9",
+        "i": 0,
+        "image_class_id": 77,
+        "image_coordinate": 76,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 320,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 77,
+      "offset_coordinate": 76,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "86/9",
+        "i": 0,
+        "image_class_id": 78,
+        "image_coordinate": 77,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 321,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 78,
+      "offset_coordinate": 77,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "782/81",
+        "i": 0,
+        "image_class_id": 43,
+        "image_coordinate": 78,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 322,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 43,
+      "offset_coordinate": 78,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "254/27",
+        "i": 0,
+        "image_class_id": 79,
+        "image_coordinate": 79,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 323,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 79,
+      "offset_coordinate": 79,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    },
+    {
+      "basic_pass": false,
+      "first_failure": {
+        "difference": "292/27",
+        "i": 0,
+        "image_class_id": 80,
+        "image_coordinate": 80,
+        "reason": "difference_not_integral"
+      },
+      "generator_class_id": 64,
+      "generator_coordinate": 56,
+      "map_id": 324,
+      "n_values_if_basic_pass": null,
+      "niwu_pass": false,
+      "offset_class_id": 80,
+      "offset_coordinate": 80,
+      "orientation": "minus_graph",
+      "v_sequence_if_pass": null
+    }
+  ],
+  "basic_pass_count": 0,
+  "compatible_generators": [
+    {
+      "class_id": 42,
+      "coordinate_mod_D": 25,
+      "key_mod_1": [
+        "25/81",
+        "53/81",
+        "10/81",
+        "5/81",
+        "68/81",
+        "17/81"
+      ],
+      "self_linking": "2/81"
+    },
+    {
+      "class_id": 64,
+      "coordinate_mod_D": 56,
+      "key_mod_1": [
+        "56/81",
+        "28/81",
+        "71/81",
+        "76/81",
+        "13/81",
+        "64/81"
+      ],
+      "self_linking": "2/81"
+    }
+  ],
+  "crossing_number": 12,
+  "cyclic_base_generator_class_id": 4,
+  "cyclic_base_self_linking": "14/81",
+  "determinant_table": 81,
+  "fractions": [
+    "1/2",
+    "3/5",
+    "-4/11"
+  ],
+  "input_interval": "[1,2]",
+  "knot": "12n_43",
+  "maps_per_orientation": 162,
+  "montesinos_notation": "K(1/2;3/5;-4/11)",
+  "negative_definite_seifert": {
+    "b": -2,
+    "e": "-81/110",
+    "orientation": "reverse_of_knotinfo_montesinos_orientation",
+    "pairs": [
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        11,
+        4
+      ]
+    ]
+  },
+  "niwu_pass_count": 0,
+  "normalized_seifert": {
+    "b": -1,
+    "e": "81/110",
+    "pairs": [
+      [
+        2,
+        1
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        11,
+        7
+      ]
+    ]
+  },
+  "obstructed_basic": true,
+  "obstructed_full": true,
+  "plumbing": {
+    "arms": [
+      [
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "determinant": 81,
+    "matrix": [
+      [
+        -2,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        -2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        -3,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        -2,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        -3,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        -4
+      ]
+    ],
+    "weights": [
+      -2,
+      -2,
+      -3,
+      -2,
+      -3,
+      -4
+    ]
+  },
+  "spin_c_classes": [
+    {
+      "class_id": 0,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 1,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "1/3",
+        "2/3",
+        "1/3",
+        "2/3",
+        "2/3",
+        "2/3"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 2,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "1/9",
+        "5/9",
+        "4/9",
+        "2/9",
+        "2/9",
+        "5/9"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "class_id": 3,
+      "d_graph": "10/9",
+      "d_minus_graph": "-10/9",
+      "key_mod_1": [
+        "1/27",
+        "14/27",
+        "22/27",
+        "11/27",
+        "20/27",
+        "5/27"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 4,
+      "d_graph": "58/81",
+      "d_minus_graph": "-58/81",
+      "key_mod_1": [
+        "1/81",
+        "41/81",
+        "49/81",
+        "65/81",
+        "74/81",
+        "59/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "class_id": 5,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "2/3",
+        "1/3",
+        "2/3",
+        "1/3",
+        "1/3",
+        "1/3"
+      ],
+      "representative_x": [
+        0,
+        2,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "class_id": 6,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "2/9",
+        "1/9",
+        "8/9",
+        "4/9",
+        "4/9",
+        "1/9"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "class_id": 7,
+      "d_graph": "-8/9",
+      "d_minus_graph": "8/9",
+      "key_mod_1": [
+        "2/27",
+        "1/27",
+        "17/27",
+        "22/27",
+        "13/27",
+        "10/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "class_id": 8,
+      "d_graph": "-74/81",
+      "d_minus_graph": "74/81",
+      "key_mod_1": [
+        "2/81",
+        "1/81",
+        "17/81",
+        "49/81",
+        "67/81",
+        "37/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "class_id": 9,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "4/9",
+        "2/9",
+        "7/9",
+        "8/9",
+        "8/9",
+        "2/9"
+      ],
+      "representative_x": [
+        0,
+        2,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 10,
+      "d_graph": "-2/9",
+      "d_minus_graph": "2/9",
+      "key_mod_1": [
+        "4/27",
+        "2/27",
+        "7/27",
+        "17/27",
+        "26/27",
+        "20/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 11,
+      "d_graph": "64/81",
+      "d_minus_graph": "-64/81",
+      "key_mod_1": [
+        "4/81",
+        "2/81",
+        "34/81",
+        "17/81",
+        "53/81",
+        "74/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 12,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "5/9",
+        "7/9",
+        "2/9",
+        "1/9",
+        "1/9",
+        "7/9"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "class_id": 13,
+      "d_graph": "4/9",
+      "d_minus_graph": "-4/9",
+      "key_mod_1": [
+        "5/27",
+        "16/27",
+        "2/27",
+        "1/27",
+        "19/27",
+        "25/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 14,
+      "d_graph": "10/81",
+      "d_minus_graph": "-10/81",
+      "key_mod_1": [
+        "5/81",
+        "43/81",
+        "2/81",
+        "1/81",
+        "46/81",
+        "52/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 15,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "7/9",
+        "8/9",
+        "1/9",
+        "5/9",
+        "5/9",
+        "8/9"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "class_id": 16,
+      "d_graph": "4/9",
+      "d_minus_graph": "-4/9",
+      "key_mod_1": [
+        "7/27",
+        "17/27",
+        "19/27",
+        "23/27",
+        "5/27",
+        "8/27"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "class_id": 17,
+      "d_graph": "-20/81",
+      "d_minus_graph": "20/81",
+      "key_mod_1": [
+        "7/81",
+        "44/81",
+        "19/81",
+        "50/81",
+        "32/81",
+        "8/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "class_id": 18,
+      "d_graph": "0",
+      "d_minus_graph": "0",
+      "key_mod_1": [
+        "8/9",
+        "4/9",
+        "5/9",
+        "7/9",
+        "7/9",
+        "4/9"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "class_id": 19,
+      "d_graph": "-2/9",
+      "d_minus_graph": "2/9",
+      "key_mod_1": [
+        "8/27",
+        "4/27",
+        "14/27",
+        "7/27",
+        "25/27",
+        "13/27"
+      ],
+      "representative_x": [
+        0,
+        2,
+        2,
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "class_id": 20,
+      "d_graph": "4/81",
+      "d_minus_graph": "-4/81",
+      "key_mod_1": [
+        "8/81",
+        "4/81",
+        "68/81",
+        "34/81",
+        "25/81",
+        "67/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "class_id": 21,
+      "d_graph": "10/9",
+      "d_minus_graph": "-10/9",
+      "key_mod_1": [
+        "10/27",
+        "5/27",
+        "4/27",
+        "2/27",
+        "11/27",
+        "23/27"
+      ],
+      "representative_x": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 22,
+      "d_graph": "-32/81",
+      "d_minus_graph": "32/81",
+      "key_mod_1": [
+        "10/81",
+        "5/81",
+        "4/81",
+        "2/81",
+        "11/81",
+        "23/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 23,
+      "d_graph": "10/9",
+      "d_minus_graph": "-10/9",
+      "key_mod_1": [
+        "11/27",
+        "19/27",
+        "26/27",
+        "13/27",
+        "4/27",
+        "1/27"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "class_id": 24,
+      "d_graph": "70/81",
+      "d_minus_graph": "-70/81",
+      "key_mod_1": [
+        "11/81",
+        "46/81",
+        "53/81",
+        "67/81",
+        "4/81",
+        "1/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "class_id": 25,
+      "d_graph": "-2/9",
+      "d_minus_graph": "2/9",
+      "key_mod_1": [
+        "13/27",
+        "20/27",
+        "16/27",
+        "8/27",
+        "17/27",
+        "11/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "class_id": 26,
+      "d_graph": "28/81",
+      "d_minus_graph": "-28/81",
+      "key_mod_1": [
+        "13/81",
+        "47/81",
+        "70/81",
+        "35/81",
+        "71/81",
+        "38/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "class_id": 27,
+      "d_graph": "4/9",
+      "d_minus_graph": "-4/9",
+      "key_mod_1": [
+        "14/27",
+        "7/27",
+        "11/27",
+        "19/27",
+        "10/27",
+        "16/27"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 28,
+      "d_graph": "46/81",
+      "d_minus_graph": "-46/81",
+      "key_mod_1": [
+        "14/81",
+        "7/81",
+        "38/81",
+        "19/81",
+        "64/81",
+        "16/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 29,
+      "d_graph": "4/9",
+      "d_minus_graph": "-4/9",
+      "key_mod_1": [
+        "16/27",
+        "8/27",
+        "1/27",
+        "14/27",
+        "23/27",
+        "26/27"
+      ],
+      "representative_x": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 30,
+      "d_graph": "-2/81",
+      "d_minus_graph": "2/81",
+      "key_mod_1": [
+        "16/81",
+        "8/81",
+        "55/81",
+        "68/81",
+        "50/81",
+        "53/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 31,
+      "d_graph": "-2/9",
+      "d_minus_graph": "2/9",
+      "key_mod_1": [
+        "17/27",
+        "22/27",
+        "23/27",
+        "25/27",
+        "16/27",
+        "4/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "class_id": 32,
+      "d_graph": "-68/81",
+      "d_minus_graph": "68/81",
+      "key_mod_1": [
+        "17/81",
+        "49/81",
+        "23/81",
+        "52/81",
+        "43/81",
+        "31/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "class_id": 33,
+      "d_graph": "-8/9",
+      "d_minus_graph": "8/9",
+      "key_mod_1": [
+        "19/27",
+        "23/27",
+        "13/27",
+        "20/27",
+        "2/27",
+        "14/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "class_id": 34,
+      "d_graph": "40/81",
+      "d_minus_graph": "-40/81",
+      "key_mod_1": [
+        "19/81",
+        "50/81",
+        "40/81",
+        "20/81",
+        "29/81",
+        "68/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "class_id": 35,
+      "d_graph": "10/9",
+      "d_minus_graph": "-10/9",
+      "key_mod_1": [
+        "20/27",
+        "10/27",
+        "8/27",
+        "4/27",
+        "22/27",
+        "19/27"
+      ],
+      "representative_x": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "class_id": 36,
+      "d_graph": "52/81",
+      "d_minus_graph": "-52/81",
+      "key_mod_1": [
+        "20/81",
+        "10/81",
+        "8/81",
+        "4/81",
+        "22/81",
+        "46/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 37,
+      "d_graph": "-2/9",
+      "d_minus_graph": "2/9",
+      "key_mod_1": [
+        "22/27",
+        "11/27",
+        "25/27",
+        "26/27",
+        "8/27",
+        "2/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "class_id": 38,
+      "d_graph": "-8/81",
+      "d_minus_graph": "8/81",
+      "key_mod_1": [
+        "22/81",
+        "11/81",
+        "25/81",
+        "53/81",
+        "8/81",
+        "2/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 39,
+      "d_graph": "4/9",
+      "d_minus_graph": "-4/9",
+      "key_mod_1": [
+        "23/27",
+        "25/27",
+        "20/27",
+        "10/27",
+        "1/27",
+        "7/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 40,
+      "d_graph": "82/81",
+      "d_minus_graph": "-82/81",
+      "key_mod_1": [
+        "23/81",
+        "52/81",
+        "74/81",
+        "37/81",
+        "1/81",
+        "61/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "class_id": 41,
+      "d_graph": "4/9",
+      "d_minus_graph": "-4/9",
+      "key_mod_1": [
+        "25/27",
+        "26/27",
+        "10/27",
+        "5/27",
+        "14/27",
+        "17/27"
+      ],
+      "representative_x": [
+        0,
+        2,
+        2,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 42,
+      "d_graph": "16/81",
+      "d_minus_graph": "-16/81",
+      "key_mod_1": [
+        "25/81",
+        "53/81",
+        "10/81",
+        "5/81",
+        "68/81",
+        "17/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 43,
+      "d_graph": "-2/9",
+      "d_minus_graph": "2/9",
+      "key_mod_1": [
+        "26/27",
+        "13/27",
+        "5/27",
+        "16/27",
+        "7/27",
+        "22/27"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "class_id": 44,
+      "d_graph": "22/81",
+      "d_minus_graph": "-22/81",
+      "key_mod_1": [
+        "26/81",
+        "13/81",
+        "59/81",
+        "70/81",
+        "61/81",
+        "76/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 45,
+      "d_graph": "-50/81",
+      "d_minus_graph": "50/81",
+      "key_mod_1": [
+        "28/81",
+        "14/81",
+        "76/81",
+        "38/81",
+        "47/81",
+        "32/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "class_id": 46,
+      "d_graph": "34/81",
+      "d_minus_graph": "-34/81",
+      "key_mod_1": [
+        "29/81",
+        "55/81",
+        "44/81",
+        "22/81",
+        "40/81",
+        "10/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "class_id": 47,
+      "d_graph": "-44/81",
+      "d_minus_graph": "44/81",
+      "key_mod_1": [
+        "31/81",
+        "56/81",
+        "61/81",
+        "71/81",
+        "26/81",
+        "47/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        3
+      ]
+    },
+    {
+      "class_id": 48,
+      "d_graph": "-44/81",
+      "d_minus_graph": "44/81",
+      "key_mod_1": [
+        "32/81",
+        "16/81",
+        "29/81",
+        "55/81",
+        "19/81",
+        "25/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 49,
+      "d_graph": "34/81",
+      "d_minus_graph": "-34/81",
+      "key_mod_1": [
+        "34/81",
+        "17/81",
+        "46/81",
+        "23/81",
+        "5/81",
+        "62/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        2,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "class_id": 50,
+      "d_graph": "-50/81",
+      "d_minus_graph": "50/81",
+      "key_mod_1": [
+        "35/81",
+        "58/81",
+        "14/81",
+        "7/81",
+        "79/81",
+        "40/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "class_id": 51,
+      "d_graph": "22/81",
+      "d_minus_graph": "-22/81",
+      "key_mod_1": [
+        "37/81",
+        "59/81",
+        "31/81",
+        "56/81",
+        "65/81",
+        "77/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 52,
+      "d_graph": "16/81",
+      "d_minus_graph": "-16/81",
+      "key_mod_1": [
+        "38/81",
+        "19/81",
+        "80/81",
+        "40/81",
+        "58/81",
+        "55/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 53,
+      "d_graph": "82/81",
+      "d_minus_graph": "-82/81",
+      "key_mod_1": [
+        "40/81",
+        "20/81",
+        "16/81",
+        "8/81",
+        "44/81",
+        "11/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 54,
+      "d_graph": "-8/81",
+      "d_minus_graph": "8/81",
+      "key_mod_1": [
+        "41/81",
+        "61/81",
+        "65/81",
+        "73/81",
+        "37/81",
+        "70/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        2
+      ]
+    },
+    {
+      "class_id": 55,
+      "d_graph": "52/81",
+      "d_minus_graph": "-52/81",
+      "key_mod_1": [
+        "43/81",
+        "62/81",
+        "1/81",
+        "41/81",
+        "23/81",
+        "26/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "class_id": 56,
+      "d_graph": "40/81",
+      "d_minus_graph": "-40/81",
+      "key_mod_1": [
+        "44/81",
+        "22/81",
+        "50/81",
+        "25/81",
+        "16/81",
+        "4/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "class_id": 57,
+      "d_graph": "-68/81",
+      "d_minus_graph": "68/81",
+      "key_mod_1": [
+        "46/81",
+        "23/81",
+        "67/81",
+        "74/81",
+        "2/81",
+        "41/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "class_id": 58,
+      "d_graph": "-2/81",
+      "d_minus_graph": "2/81",
+      "key_mod_1": [
+        "47/81",
+        "64/81",
+        "35/81",
+        "58/81",
+        "76/81",
+        "19/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 59,
+      "d_graph": "46/81",
+      "d_minus_graph": "-46/81",
+      "key_mod_1": [
+        "49/81",
+        "65/81",
+        "52/81",
+        "26/81",
+        "62/81",
+        "56/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 60,
+      "d_graph": "28/81",
+      "d_minus_graph": "-28/81",
+      "key_mod_1": [
+        "50/81",
+        "25/81",
+        "20/81",
+        "10/81",
+        "55/81",
+        "34/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "class_id": 61,
+      "d_graph": "70/81",
+      "d_minus_graph": "-70/81",
+      "key_mod_1": [
+        "52/81",
+        "26/81",
+        "37/81",
+        "59/81",
+        "41/81",
+        "71/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 62,
+      "d_graph": "-32/81",
+      "d_minus_graph": "32/81",
+      "key_mod_1": [
+        "53/81",
+        "67/81",
+        "5/81",
+        "43/81",
+        "34/81",
+        "49/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "class_id": 63,
+      "d_graph": "4/81",
+      "d_minus_graph": "-4/81",
+      "key_mod_1": [
+        "55/81",
+        "68/81",
+        "22/81",
+        "11/81",
+        "20/81",
+        "5/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "class_id": 64,
+      "d_graph": "-20/81",
+      "d_minus_graph": "20/81",
+      "key_mod_1": [
+        "56/81",
+        "28/81",
+        "71/81",
+        "76/81",
+        "13/81",
+        "64/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "class_id": 65,
+      "d_graph": "10/81",
+      "d_minus_graph": "-10/81",
+      "key_mod_1": [
+        "58/81",
+        "29/81",
+        "7/81",
+        "44/81",
+        "80/81",
+        "20/81"
+      ],
+      "representative_x": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 66,
+      "d_graph": "64/81",
+      "d_minus_graph": "-64/81",
+      "key_mod_1": [
+        "59/81",
+        "70/81",
+        "56/81",
+        "28/81",
+        "73/81",
+        "79/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 67,
+      "d_graph": "-74/81",
+      "d_minus_graph": "74/81",
+      "key_mod_1": [
+        "61/81",
+        "71/81",
+        "73/81",
+        "77/81",
+        "59/81",
+        "35/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "class_id": 68,
+      "d_graph": "58/81",
+      "d_minus_graph": "-58/81",
+      "key_mod_1": [
+        "62/81",
+        "31/81",
+        "41/81",
+        "61/81",
+        "52/81",
+        "13/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "class_id": 69,
+      "d_graph": "76/81",
+      "d_minus_graph": "-76/81",
+      "key_mod_1": [
+        "64/81",
+        "32/81",
+        "58/81",
+        "29/81",
+        "38/81",
+        "50/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 70,
+      "d_graph": "-38/81",
+      "d_minus_graph": "38/81",
+      "key_mod_1": [
+        "65/81",
+        "73/81",
+        "26/81",
+        "13/81",
+        "31/81",
+        "28/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "class_id": 71,
+      "d_graph": "-26/81",
+      "d_minus_graph": "26/81",
+      "key_mod_1": [
+        "67/81",
+        "74/81",
+        "43/81",
+        "62/81",
+        "17/81",
+        "65/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "class_id": 72,
+      "d_graph": "-62/81",
+      "d_minus_graph": "62/81",
+      "key_mod_1": [
+        "68/81",
+        "34/81",
+        "11/81",
+        "46/81",
+        "10/81",
+        "43/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        3,
+        3
+      ]
+    },
+    {
+      "class_id": 73,
+      "d_graph": "106/81",
+      "d_minus_graph": "-106/81",
+      "key_mod_1": [
+        "70/81",
+        "35/81",
+        "28/81",
+        "14/81",
+        "77/81",
+        "80/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "class_id": 74,
+      "d_graph": "-14/81",
+      "d_minus_graph": "14/81",
+      "key_mod_1": [
+        "71/81",
+        "76/81",
+        "77/81",
+        "79/81",
+        "70/81",
+        "58/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "class_id": 75,
+      "d_graph": "-14/81",
+      "d_minus_graph": "14/81",
+      "key_mod_1": [
+        "73/81",
+        "77/81",
+        "13/81",
+        "47/81",
+        "56/81",
+        "14/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        1,
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "class_id": 76,
+      "d_graph": "106/81",
+      "d_minus_graph": "-106/81",
+      "key_mod_1": [
+        "74/81",
+        "37/81",
+        "62/81",
+        "31/81",
+        "49/81",
+        "73/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "class_id": 77,
+      "d_graph": "-62/81",
+      "d_minus_graph": "62/81",
+      "key_mod_1": [
+        "76/81",
+        "38/81",
+        "79/81",
+        "80/81",
+        "35/81",
+        "29/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        3,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "class_id": 78,
+      "d_graph": "-26/81",
+      "d_minus_graph": "26/81",
+      "key_mod_1": [
+        "77/81",
+        "79/81",
+        "47/81",
+        "64/81",
+        "28/81",
+        "7/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "class_id": 79,
+      "d_graph": "-38/81",
+      "d_minus_graph": "38/81",
+      "key_mod_1": [
+        "79/81",
+        "80/81",
+        "64/81",
+        "32/81",
+        "14/81",
+        "44/81"
+      ],
+      "representative_x": [
+        0,
+        1,
+        2,
+        1,
+        1,
+        4
+      ]
+    },
+    {
+      "class_id": 80,
+      "d_graph": "76/81",
+      "d_minus_graph": "-76/81",
+      "key_mod_1": [
+        "80/81",
+        "40/81",
+        "32/81",
+        "16/81",
+        "7/81",
+        "22/81"
+      ],
+      "representative_x": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "filename_used_in_analysis": "knotinfo_data_complete(11).xls",
+  "sha256": "bd454dcb6bcd5effe205b27ca9de172bb21cf87ce190e15f870e1b07a714ccbe",
+  "size_bytes": 81901568,
+  "sheet": "sample_dat",
+  "rows_including_headers": 12968,
+  "data_rows": 12966,
+  "columns": 246,
+  "note": "The complete third-party workbook is not redistributed. Exact derived certificates and sufficient input provenance are included."
+}

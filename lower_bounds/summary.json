@@ -1,0 +1,91 @@
+{
+  "alexander_module_scan": {
+    "additional_over_restricted_scan": 13,
+    "all_certificate_successes": 363,
+    "already_implied_by_workbook": 1,
+    "breakdown": [
+      {
+        "alternating": "N",
+        "consequence": "exact u=2",
+        "count": 303,
+        "input_interval": "[1,2]",
+        "output_interval": "2"
+      },
+      {
+        "alternating": "N",
+        "consequence": "exact u=3",
+        "count": 4,
+        "input_interval": "[1,3]",
+        "output_interval": "3"
+      },
+      {
+        "alternating": "N",
+        "consequence": "improved",
+        "count": 42,
+        "input_interval": "[1,3]",
+        "output_interval": "[2,3]"
+      },
+      {
+        "alternating": "N",
+        "consequence": "improved",
+        "count": 2,
+        "input_interval": "[1,4]",
+        "output_interval": "[2,4]"
+      },
+      {
+        "alternating": "N",
+        "consequence": "exact u=3",
+        "count": 3,
+        "input_interval": "[2,3]",
+        "output_interval": "3"
+      },
+      {
+        "alternating": "Y",
+        "consequence": "exact u=3",
+        "count": 7,
+        "input_interval": "[2,3]",
+        "output_interval": "3"
+      },
+      {
+        "alternating": "Y",
+        "consequence": "improved",
+        "count": 1,
+        "input_interval": "[2,5]",
+        "output_interval": "[3,5]"
+      }
+    ],
+    "complete_finite_field_index_counts": {
+      "0": 11,
+      "1": 4504,
+      "2": 588,
+      "3": 18
+    },
+    "gapped_rows_checked": 5121,
+    "genuinely_new": 362,
+    "new_exact_u2": 303,
+    "new_exact_u3": 14,
+    "new_nonexact_improvements": 45,
+    "reduced_size_maximum": 6,
+    "restricted_scan_certificate_successes": 350
+  },
+  "owens_scan": {
+    "determinant_obstructions": 1,
+    "exact_u3": 4,
+    "group_obstructions": 4,
+    "nonexact_improvements": 1,
+    "oriented_zero_class_checks": {
+      "2": 653,
+      "3": 164,
+      "4": 24
+    },
+    "signature_eight_eligible": 24,
+    "signature_eight_zero_class_obstructions": 0,
+    "signature_four_eligible": 653,
+    "signature_six_eligible": 164,
+    "signature_six_zero_class_obstructions": 0,
+    "total_obstructions": 5,
+    "zero_class_obstructions_after_orientation_check": 0
+  },
+  "source_tex": "big_data_unknotting.tex",
+  "source_workbook": "knotinfo_data_complete(11).xls"
+}
