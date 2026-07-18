@@ -58,7 +58,7 @@ complete calculation. For a Seifert matrix `V`, a finite field `F` and a
 nonzero element `alpha` in `F`, the certificate is
 
 $$
-\operatorname{nullity}_{F}(\alpha V-V^T)\leq e(K)\leq u(K),
+\text{nullity}_{F}(\alpha V-V^T)\leq e(K)\leq u(K),
 $$
 
 where `e(K)` is the Nakanishi index.
